@@ -1,5 +1,5 @@
 # Hermod, the Spirit of War
-.img:https://img.pvme.io/images/5DOoDIaAzB.png
+.img:https://img.pvme.io/images/j7RO67GrYD.png
 ## __Introduction__
 .tag:intro
 Hermod is a lieutenant of Rasial, the First Necromancer. He is a phantom born out of the unending conflicts of the God Wars in the Third Age, and continuously reforms himself when destroyed as long as wars are waged on Gielinor. You can only damage him with the Necromancy combat style and poison.
@@ -19,7 +19,7 @@ These are all highly recommended.
 ⬥ <:salveamulet:797899945730244648> Salve Amulet (e)
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:preset
 {
   "embed": {
@@ -30,7 +30,7 @@ These are all highly recommended.
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [T90 Necromancy](https://pvme.io/preset-maker/#/VDp4tPeB5ch0Kfkj5L5H)",
         "inline": true
       }
@@ -70,7 +70,7 @@ Both of which require <:igneouskalmor:1139200072438005851> / <:igneouskalzuk:902
 .
 ## __AFK Strategy__
 .tag:afk
-A full guide on how to AFK Hermod is available here: <#1141703842581467168>
+A full guide on how to AFK Hermod is available here: <#1251377310301552712>
 
 .
 {

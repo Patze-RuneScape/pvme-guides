@@ -68,7 +68,7 @@ If you are just looking for information on what perks you should use, check out 
 ### Manufacturing Tab
 ⬥ The right side of the bench allows you to manufacture invention items.
 .img:https://img.pvme.io/images/PCvnhmH9DF.png
-⬥ This includes things like divine charges <:divinecharge:1010485547598356530>, gizmos <:ancientweapongizmo:1088041624803745862> <:ancientarmourgizmo:697405383769194516> <:ancienttoolgizmo:1088041619653152858>, invention items <:augmentor:1039863296729296946> <:gizmodissolver:1039869649975787580> <:augmentationdissolver:1039869647677313144> <:dummy:656844963522281473> <:equipmentseperator:1039869642455404594>, certain augmented items <:sirenicbody:643846948570267648> <:sireniclegs:643846938537623564>, *and much much more*.
+⬥ This includes things like divine charges <:divinecharge:1010485547598356530>, gizmos <:ancientweapongizmo:1088041624803745862> <:ancientarmourgizmo:697405383769194516> <:ancienttoolgizmo:1088041619653152858>, invention items <:augmentor:1039863296729296946> <:gizmodissolver:1039869649975787580> <:augmentationdissolver:1039869647677313144> <:dummy:656844963522281473> <:equipmentseperator:1039869642455404594>, certain augmented items <:sirenicbody:643846948570267648> <:sireniclegs:643846938537623564>, *and much more*.
 
 .
 ## __Materials__
@@ -91,7 +91,7 @@ Click on any material name to be linked to the calculator for best items to disa
 ⬥ Ignore any items that have a low value for the "Trade vol." column
 ⬥ Pay attention to the "Mats per hour" column as you go down the list and consider the time/money tradeoff
 
-For convenience, the following lists are compiled by balancing the above factors at zero junk chance reduction. Higher level players are encouraged to use the calculators themselves as the increased junk chance reduction may make other items better for disasseembly.
+For convenience, the following lists are compiled by balancing the above factors at zero junk chance reduction. Higher level players are encouraged to use the calculators themselves as the increased junk chance reduction may make other items better for disassembly.
 
 .
 ### Common Materials

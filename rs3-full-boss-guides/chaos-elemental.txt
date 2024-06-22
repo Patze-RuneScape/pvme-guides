@@ -1,5 +1,6 @@
 # Chaos Elemental
-.img:https://img.pvme.io/images/LcvLEL0.jpg
+.img:https://img.pvme.io/images/wdEqnvjshG.png
+
 .
 ## __Introduction__
 *Note: a **Table of Contents** can be found in the pins.*
@@ -10,12 +11,7 @@ More specific information is available here:
 <https://runescape.wiki/w/Chaos_elemental>
 
 .
-## __Drops__
-⬥ <:statiusbody:643162730827874324> **Ancient warriors equipment** `1/847`
-⬥ <:ribsofchaos:643162714557906965> **Ribs of chaos** `1/2500 (500 threshold)`
-
-.
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:presets
 {
   "embed": {
@@ -26,7 +22,7 @@ More specific information is available here:
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Melee](https://pvme.io/preset-maker/#/a0E3znRtFy5RC0KGYZHu)",
         "inline": true
       }

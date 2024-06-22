@@ -1,6 +1,5 @@
 # Corporeal Beast
-.img:https://img.pvme.io/images/q1YinH7mi2.jpg
-*Note: a **Table of Contents** can be found in the pins.*
+.img:https://img.pvme.io/images/nnDVky2MOZ.png
 
 .
 ## __Introduction__
@@ -29,7 +28,7 @@ The Corporeal Beast is a boss unlocked from completing the [Summer's End](<https
 .embed:json
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:presets
 .
 ### General
@@ -45,7 +44,7 @@ Any weapon that isn't a spear will deal half damage, so melee is the only style 
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Melee | Advanced](https://pvme.io/preset-maker/#/chq6wM9CGs44uDQFnTuU)",
         "inline": true
       }
@@ -57,7 +56,7 @@ Any weapon that isn't a spear will deal half damage, so melee is the only style 
 .
 ## __AFK Method__
 .tag:afk
-## __AFK methods can be found in <#1030236677106581515>__
+## __AFK methods can be found in <#1251377275639955456>__
 
 .
 ## __Old Rotations__

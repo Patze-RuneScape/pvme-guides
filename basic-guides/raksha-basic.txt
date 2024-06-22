@@ -1,27 +1,24 @@
 # Basic Guide: Raksha
 .
-.img:https://img.pvme.io/images/8ac3LoaPQq.png
+.img:https://img.pvme.io/images/84XEYnJq1T.png
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:presets
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/fmPmTkOiLf.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/8tHDhZfEj1qjSLlYnxlU)\n⬥ [Ranged](https://pvme.io/preset-maker/#/pzLsFYfPMdc4X20x9ypj)",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Magic preset](https://pvme.io/preset-maker/#/8tHDhZfEj1qjSLlYnxlU) <:magic:689504724159823906>\n⬥ [Ranged preset](https://pvme.io/preset-maker/#/pzLsFYfPMdc4X20x9ypj) <:range:580168050121113623>"
       }
     ]
   }
 }
 .embed:json
-
 .
 ## __General Knowledge__
 .tag:general
@@ -95,7 +92,7 @@ Repeat this until you get the hang of prayer flicking under pressure.
     • During phase 3, Raksha absorbs anima from said pools.
         ⬩ At the start of phase 3, kill all pools with <:lanispear:839903893177106454> + <:Laceration:602581988599398400> + <:bd:535532854281764884> before Raksha can absorb any anima.
         ⬩ **DO NOT** use <:bd:535532854281764884> during global cooldown as it will deal no damage.
-        ⬩ Use <:bd:535532854281764884> on the pool highlighted in green (using it on the pools in red will not guarantee all pools in the vicnity being cleared)
+        ⬩ Use <:bd:535532854281764884> on the pool highlighted in green (using it on the pools in red will not guarantee all pools in the vicinity being cleared)
 .
 .img:https://img.pvme.io/images/4hSPQGW.png
 

@@ -19,12 +19,12 @@ For further information and reading, you can refer to the following resources.
     "fields": [
       {
         "name": "__DPM Advice Channels__",
-        "value": "⬥ <#1020729755064074291>\n⬥ <#1020729582086782996>\n⬥ <#1020729671127662643>",
+        "value": "⬥ <#1252196384321568893>\n⬥ <#1252196381851127870>\n⬥ <#1252196383159484519>",
         "inline": true
       },
       {
         "name": "__Misc. Info__",
-        "value": "⬥ <#1137540926877745212>\n⬥ <#1020550458231771157>\n⬥ <#1020550599248466050>",
+        "value": "⬥ <#1137540926877745212>\n⬥ <#1020550458231771157>\n⬥ <#1020550599248466050>\n⬥ <#1250862463788908637>",
         "inline": true
       },
       {
@@ -41,7 +41,7 @@ For further information and reading, you can refer to the following resources.
 .
 ## __Revolution Bars and General Background Knowledge__
 .tag:generalinfo
-For general PvM terminology, DPS tips, and revolution bars, check out their respective sections in <#1020730084807680073>.
+For general PvM terminology, DPS tips, and revolution bars, check out their respective sections in <#1252196386452144249>.
 
 .
 ## __Ability Information__
@@ -113,7 +113,7 @@ Here we'll cover some of the points to keep in mind to build a strong Magic DPS 
 
 .
 ### Managing Cooldowns
-⬥ **High damaging abilities often come with long cooldowns** - when building a rotation, ability prioritisations *and* cooldowns should be on your mind.
+⬥ **High damaging abilities often come with long cooldowns** - when building a rotation, ability prioritisation *and* cooldowns should be on your mind.
 ⬥ If you use all of the high damaging abilities at once, their cooldowns will force you to use multiple weak abilities in succession while waiting to use them again.
 ⬥ To avoid this problem, you want to **use filler abilities to space out your high damage abilities**, to pace yourself and manage cooldowns.
 ⬥ **The primary magic filler abilities are (Greater) Sonic Wave <:gsonicwave:1095411826839257138> / <:sonicwave:1087373972443775056>, (Greater) Concentrated Blast <:gconc:869285393223254107> / <:conc:1087373968731811880>, and Wrack <:wrack:856662355952795658>**.

@@ -1,5 +1,5 @@
 # Solo Nex: Necromancy
-.img:https://img.pvme.io/images/Y5LIGHuf6o.png
+.img:https://img.pvme.io/images/EHBFVhLaE2.png
 *Note: a **Table of Contents** can be found in the pins.*
 
 .
@@ -19,7 +19,7 @@ It is strongly advised to complete the [Ritual of the Mahjarrat](<https://runesc
         },
     "fields": [
       {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Necromancy](https://pvme.github.io/preset-maker/#/ihxaK7aG6frUTVXz8Nuo)",
         "inline": true
       }

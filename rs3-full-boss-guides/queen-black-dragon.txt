@@ -1,20 +1,14 @@
 # Queen Black Dragon
-.img:https://img.pvme.io/images/w8WK1GU.jpg
+.img:https://img.pvme.io/images/LRKGH3H3yP.png
 .
 ## __Introduction__
 .tag:intro
 The Queen Black Dragon resides in the lowest level of the Grotworm Lair which can be found just west of Port Sarim. 60 <:Summoning:583430259064569856> is required to be able to enter the Arena via the Summoning Portal. Before attempting the fight it is _highly_ recommended to have level 80 in your preferred combat stat (generally <:range:580168050121113623> or <:Magic:689504724159823906>) and access to Super Antifire potions.
 
-*Note: Completion of the Song of the Depths quest is recommended as well to reduce the amount of damage received.*
+*Note: Completion of the [Song of the Depths](https://runescape.wiki/w/Song_from_the_Depths) quest is recommended as well to reduce the amount of damage received.*
 
 .
-## __Drops__
-.tag:drops
-⬥ <:royalstabiliser:643168122815381534> **Royal crossbow piece:** 1/6
-⬥ <:qbdscale:643163068892708884> **QBD Scale:** 1/2500 (500 threshold)
-
-.
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:presets
 {
   "embed": {
@@ -25,7 +19,7 @@ The Queen Black Dragon resides in the lowest level of the Grotworm Lair which ca
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Ranged | Basic](https://pvme.github.io/preset-maker/#/5qeONiK3mTiH18UBWxrL)\n⬥ [Ranged | Advanced](https://pvme.github.io/preset-maker/#/ugHeMNxJnFywlyxV8217)",
         "inline": true
       }
@@ -76,7 +70,7 @@ The Queen Black Dragon resides in the lowest level of the Grotworm Lair which ca
       },
       {
         "name": "__Extreme Dragon Breath__",
-        "value": "⬥ A high hitting attack prompted by the chat box saying, `The Queen Black Dragon gathers her strength to breathe extremely hot flames.`\n\u00a0\u00a0\u00a0\u00a0• Can be mitaged by moving to the sides of the arena.\n\u00a0\u00a0\u00a0\u00a0• Standing in the middle will cause high damage.\n\u00a0\u00a0\u00a0\u00a0• This also is the special attack needed to brand the Royal Crossbow\n\u200B"
+        "value": "⬥ A high hitting attack prompted by the chat box saying, `The Queen Black Dragon gathers her strength to breathe extremely hot flames.`\n\u00a0\u00a0\u00a0\u00a0• Can be mitigated by moving to the sides of the arena.\n\u00a0\u00a0\u00a0\u00a0• Standing in the middle will cause high damage.\n\u00a0\u00a0\u00a0\u00a0• This also is the special attack needed to brand the Royal Crossbow\n\u200B"
       }
     ]
   }
@@ -86,7 +80,7 @@ The Queen Black Dragon resides in the lowest level of the Grotworm Lair which ca
 ## __Rotation__
 .tag:rotation
 *Note: Rotation assumes camping <:jasdragonbanearrow:971025697042755584>*
-Use <:adrenrenewal:736298121704767538> as needed, and start kills atleast ~50 adren
+Use <:adrenrenewal:736298121704767538> as needed, and start kills at least ~50 adren
 
 ### Phase 1
 At 1.2s <:ecb:615618531937222657> <:spec:537340400273195028> → (tc) <:grico:787904334812807238> → <:snap:535534127131394088> → tag pillar
@@ -131,7 +125,7 @@ This tool reads your screen, and based on certain lines of dialogue in your chat
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Drops]($linkmsg_drops$)\n⬥ [Presets]($linkmsg_presets$)\n⬥ [Mechanics]($linkmsg_mechanics$)\n⬥ [Rotation]($linkmsg_rotation$)\n⬥ [Example Kill]($linkmsg_example$)\n⬥ [Alt1 QBD Helper]($linkmsg_alt1$)",
+    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Presets]($linkmsg_presets$)\n⬥ [Mechanics]($linkmsg_mechanics$)\n⬥ [Rotation]($linkmsg_rotation$)\n⬥ [Example Kill]($linkmsg_example$)\n⬥ [Alt1 QBD Helper]($linkmsg_alt1$)",
     "color": 39423
   }
 }

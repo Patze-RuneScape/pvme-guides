@@ -1,5 +1,5 @@
 # Hardmode Zuk
-.img:https://img.pvme.io/images/5RwzSdR.jpg
+.img:https://img.pvme.io/images/zURz0KcXrt.png
 
 .
 ## __Introduction and preface__
@@ -16,7 +16,7 @@ Time save breakdown:
 As such, it is strongly recommended to follow the guide alongside the video example. The rotations are constructed to allow for continuous usage. If followed correctly, players should not lose ticks between abilities unless otherwise stated.
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:preset
 {
   "embed": {
@@ -27,7 +27,7 @@ As such, it is strongly recommended to follow the guide alongside the video exam
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Magic](https://pvme.io/preset-maker/#/0VuYPNvJ0AYMQbudIPOa)",
         "inline": true
       }
@@ -39,7 +39,7 @@ As such, it is strongly recommended to follow the guide alongside the video exam
 .
 ### The Fight
 ⬥ In essence the fight can be broken down in two phases: waves and Zuk.
-    • Waves can be further broken down into three sub-categories (melee, range, and mage waves) where each sub-category is separated by an igneous + challenge wave.
+    • Waves can be further broken down into three sub-categories (melee, ranged, and mage waves) where each sub-category is separated by an igneous + challenge wave.
 
 .
 ## __Melee Waves__
@@ -48,7 +48,7 @@ For waves 1, 2, and 3 you will fight mainly melee enemies. Use Elite tectonic <:
 
 ### Wave 1
 **General pointers**
-⬥ Kill/lower as many Hurs as possible while standing in the middle of the room. Once they are clumped up, 4t <:bloodbarrage:537338981747261446> <:deto:535533833358016512> → <:gchaincaroming:867678153882861568> <:tsunamiincite:958989794757730307> will finish off the rest.
+⬥ Kill/lower as many TzekHaar-Hurs as possible while standing in the middle of the room. Once they are clumped up, 4t <:bloodbarrage:537338981747261446> <:deto:535533833358016512> → <:gchaincaroming:867678153882861568> <:tsunamiincite:958989794757730307> will finish off the rest.
 **Specific rotations**
 .
 https://youtube.com/clip/UgkxS0HJLCimNmcaBeaFMCHLdT4Dh8kkQu5e
@@ -114,7 +114,7 @@ Start by equipping <:grim:568262896375824385> + <:tokkulzo:975012160759550042> +
 
 <:dummy:656844963522281473> + <:gchaincaroming:867678153882861568> → <:omni:535533809664262179> → <:dbreath:535533833391702017> → Basics to finish off stragglers + disassemble dummy
 
-## __Range waves__
+## __Ranged waves__
 .tag:rangewaves
 In waves 6, 7 and 8 you will face many ranged enemies that can deal a lot of damage. Use <:elitetectmask:556582803014418432> <:elitetectbody:552955120707698699> <:elitetectlegs:580177869272121344> wave 6 and <:obsidianmagehelm:1100353893063462912> <:cryptbloombody:892819107253194762> <:cryptbloomlegs:892819107223851058> wave 7 and 8.
 
@@ -300,6 +300,8 @@ Start on **1** and pre-<:vulnbomb:655341074235129858> and pre-<:magmatempesttarg
 .
 ### Wave 17 (Har-aken)
 .tag:aken
+.img:https://img.pvme.io/images/n4B2Z2KLAw.png
+.
 <:dive:1049378668197195808> to Har-aken → <:gsunshine:994644352871714836> <:smokecloud:856635090641879050> <:vulnbomb:655341074235129858> + <:adrenrenewal:736298121704767538> → <:gconc:869285393223254107> → <:dbreath:535533833391702017> → <:bloodbarrage:537338981747261446> <:tsunamiincite:958989794757730307> → <:fsoa:869284271595069451> <:spec:537340400273195028> → <:wrack:856662355952795658> + move to edge of sun → <:gconc:869285393223254107> → <:wm:535533809978966037> → <:bloodbarrage:537338981747261446> <:omni:535533809664262179> + move to center of sun → <:gconc:869285393223254107> → <:gstaff:513203008608141314> <:eofspec:746403211908481184> → <:bloodbarrage:537338981747261446> <:asphyx:535533833072672778> → <:gconc:869285393223254107> → <:smoketendrils:536257336130404372> → <:gconc:869285393223254107> → <:gstaff:513203008608141314> <:eofspec:746403211908481184>
 
 ⬥ Ensure to kill Har-aken only after <:fsoa:869284271595069451> / <:gsunshine:994644352871714836> runs out.

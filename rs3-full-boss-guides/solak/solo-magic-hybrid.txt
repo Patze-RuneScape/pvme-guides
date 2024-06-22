@@ -1,6 +1,6 @@
 # Magic-Hybrid Solo
 .
-.img:https://img.pvme.io/images/TtSPItrhnK.png
+.img:https://img.pvme.io/images/gmrKIcfK2P.png
 .
 
 .
@@ -13,7 +13,7 @@ Due to the nature of <:critbuff:943518665842757644> from <:meteorstrike:53553287
 .tag:Notes
 ⬥ <:bloodbarrage:537338981747261446> is a synonym for an Auto Attack
 ⬥ (TC), (FTC), (BTC) are abbreviations for Target Cycle, Forward Target Cycle and Backwards Target Cycle respectively
-⬥ The Inquisitor Staff <:inquisitorstaff:694566917553520680> should be utilized after using the *Enchantment of Affliction* <:enchantmentofaffliction:1006481321087991819> buff, this means the <:fsoa:869284271595069451> is only used for the special attack
+⬥ The Inquisitor Staff <:inquisitorstaff:694566917553520680> should be utilised after using the *Enchantment of Affliction* <:enchantmentofaffliction:1006481321087991819> buff, this means the <:fsoa:869284271595069451> is only used for the special attack
 ⬥ A full set of Vestments of Havoc <:vestmentsofhavochood:994189297659940904> is required for the extra adrenaline influx & adrenaline pool
 ⬥ This guide contains rotations for *root skips*, phase timing is expected around 0:28 ~ 0:30
 ⬥ This guide has been tested under the following conditions:
@@ -32,7 +32,7 @@ Find teamforming opportunities for all skill levels, VOD review, helpful discuss
 This guide will cover a solo magic-hybrid strategy, with the aim of approximately 5:30 kill times.
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:Presets
 {
   "embed": {
@@ -43,7 +43,7 @@ This guide will cover a solo magic-hybrid strategy, with the aim of approximatel
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Magic / Melee Hybrid](https://pvme.io/preset-maker/#/DYs2JaR0ry08zKLQXnh6)",
         "inline": true
       }
@@ -71,7 +71,7 @@ Pre-build <:dummy:656844963522281473> <:incend:535541258429661215> → <:snipe:5
 *Note 1: save <:adrenrenewal:736298121704767538> for P2 <:zerk:535532854004678657>
 Note 2: If Solak is >1550k after <:gstaff:513203008608141314> then <:chaosroar:994644356671737966> → <:zekkil:903244090953588787> <:eofspec:746403211908481184> → <:dismember:535532879376023572> <:ezkextend:1043954265024102592> → (<:slaughter:535532879237873666> <:ezkextend:1043954265024102592> if needed) → <:comb:535533833098100745> <:ezkextend:1043954265024102592>
 Note 3: use <:fsoa:869284271595069451> to kill rootlings, because <:inquisitorstaff:694566917553520680> can splash
-Note 4: <:bloodbarrage:537338981747261446> + basic succesfully kills a rootling
+Note 4: <:bloodbarrage:537338981747261446> + basic successfully kills a rootling
 Note 5: <:ingen:641339234111848463> + <:meteorstrike:535532879359377439> 5th or 6th rootling*
 .
 .img:https://img.pvme.io/images/LJ8Lbbt.png
@@ -165,7 +165,7 @@ Note 2: if HP <300k after <:sunshine:994921119381463070>, you can non-<:gbarge:5
 .tag:rocket_rotation
 
 .
-## __Preset__
+## __Presets and Relics__
 .tag:rocket_preset
 .img:https://img.pvme.io/images/c0pxkfL.png
 Full preset breakdown available here: <https://img.pvme.io/images/x1NoUk3.png>
@@ -246,7 +246,7 @@ Stand south of torch to avoid stuns - see example kill as reference.
 <:anti:535541306475151390> → <:bloodbarrage:537338981747261446> <:asphyx:535533833072672778> (Stun)
 ⬥ Rot 1: (Providing Solak is low enough HP for P4) <:zerk:535532854004678657> → <:divert:787904334377648130> → <:gbarge:535532879250456578> → <:grico:787904334812807238> → <:cane:535532878969438210> → Enter Elf
 ⬥ Rot 2: (Delay pad to lower Solak's HP for P4) <:gconc:869285393223254107> → <:dbreath:535533833391702017> → <:bloodbarrage:537338981747261446> <:sonicwave:1087373972443775056> → <:zerk:535532854004678657> → <:divert:787904334377648130> → <:gbarge:535532879250456578> → <:grico:787904334812807238> → <:assault:535532855191928842> → <:cane:535532878969438210> → <:deci:535532879325822986> → Enter Elf
-(Zerk once you you have stunned with magic OR if delayed pad then a few abilities after charging.)
+(Zerk once you have stunned with magic OR if delayed pad then a few abilities after charging.)
 **NOTE: You will lose barge bleeds if you bleed and then enter elf as you lose line of sight**
 
 .

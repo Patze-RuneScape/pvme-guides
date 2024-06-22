@@ -17,7 +17,7 @@
 ### Desirable Drops
 .tag:drops
 .
-All dinosaurs have the **same drop rates for unqiues and Totem pieces**. It is thus recommended to kill **Venomous Dinosaurs** <:venomousdinosaur:1004107319166107689> if your <:slayer:797896049548066857> level is high enough as they have the highest KPH.
+All dinosaurs have the **same drop rates for uniques and Totem pieces**. It is thus recommended to kill **Venomous Dinosaurs** <:venomousdinosaur:1004107319166107689> if your <:slayer:797896049548066857> level is high enough as they have the highest KPH.
 
 ⬥ Dinosaur tooth - 1/800
     • Needed for T3 Slayer Lodge for Slayer Helmet <:slayerhelm:798285340460449792> stand
@@ -42,7 +42,7 @@ All dinosaurs have the **same drop rates for unqiues and Totem pieces**. It is t
     "fields": [
       {
         "name": "__Items__",
-        "value": "⬥ [**Abyssal Armour Spikes (alloy)**](https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)) <:abyssalarmourspikesalloy:947871842541129768>\n\u00a0\u00a0\u00a0\u00a0• Increases <:poisonicon:944649693500154006> hits and healing via the <:VampScrim:513201294262009874>\n\u00a0\u00a0\u00a0\u00a0• Other tiers of armour spikes <:armourspike:1004090524669587517> <:armourspikealloy:756235792053174332> work as well.\n⬥ [**Essence of Finality**](https://runescape.wiki/w/Essence_of_Finality_amulet) with a [**Dragon Halberd**](https://runescape.wiki/w/Dragon_halberd) <:eofor:745279787471470713> <:dragonhalberd:841409589261238282>\n\u00a0\u00a0\u00a0\u00a0• Good AoE spec to use if killing them actively with <:melee:1096130867279171706>\n⬥ [**Necklace of Salamancy**](https://runescape.wiki/w/Necklace_of_Salamancy) <:necklaceofsalamancy:970657245312467004>\n\u00a0\u00a0\u00a0\u00a0• Provies a 15% accuracy and damage buff wild fighting dinosaurs.\n\u200B"
+        "value": "⬥ [**Abyssal Armour Spikes (alloy)**](https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)) <:abyssalarmourspikesalloy:947871842541129768>\n\u00a0\u00a0\u00a0\u00a0• Increases <:poisonicon:944649693500154006> hits and healing via the <:VampScrim:513201294262009874>\n\u00a0\u00a0\u00a0\u00a0• Other tiers of armour spikes <:armourspike:1004090524669587517> <:armourspikealloy:756235792053174332> work as well.\n⬥ [**Essence of Finality**](https://runescape.wiki/w/Essence_of_Finality_amulet) with a [**Dragon Halberd**](https://runescape.wiki/w/Dragon_halberd) <:eofor:745279787471470713> <:dragonhalberd:841409589261238282>\n\u00a0\u00a0\u00a0\u00a0• Good AoE spec to use if killing them actively with <:melee:1096130867279171706>\n⬥ [**Necklace of Salamancy**](https://runescape.wiki/w/Necklace_of_Salamancy) <:necklaceofsalamancy:970657245312467004>\n\u00a0\u00a0\u00a0\u00a0• Provides a 15% accuracy and damage buff wild fighting dinosaurs.\n\u200B"
       },
       {
         "name": "__Passive unlocks__",
@@ -98,7 +98,7 @@ To prevent taking too much damage, <:enhdev4:712073087507628035> is helpful, as 
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Melee](https://pvme.github.io/preset-maker/#/9F10NhgILGqyTKQX1vTO)",
         "inline": true
       }
@@ -128,7 +128,7 @@ Thanks to the Venomous Dinosaurs' higher affinity to <:Magic:689504724159823906>
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Magic](https://pvme.github.io/preset-maker/#/MopjYBuvJUpsaspbD93p)",
         "inline": true
       }
@@ -166,7 +166,7 @@ Thanks to Necromancies sustain with <:conjureghost:1137809206423060632> and <:bl
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Necromancy](https://pvme.io/preset-maker/#/B0h6qyW25IAerHlXzqTm)",
         "inline": true
       }
@@ -231,7 +231,7 @@ This method is viable for both <:feraldinosaur:1004107322882261072> and <:brutis
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Melee](https://pvme.github.io/preset-maker/#/N1yeCIBMIEm8BgJvhRZN)",
         "inline": true
       }
@@ -275,7 +275,7 @@ Ripper dinosaurs <:ripperdinosaur:1004107317450641438> are highly damaging and g
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Magic](https://pvme.github.io/preset-maker/#/fu9akCKqeq84DP1a5xGi)",
         "inline": true
       }

@@ -1,5 +1,5 @@
 # Kerapac, the Bound: Normal Mode
-.img:https://img.pvme.io/images/LuuRiDd.jpg
+.img:https://img.pvme.io/images/1fZdXd5U3v.png
 
 .
 ## __Introduction__
@@ -11,11 +11,6 @@ Kerapac is a dragonkin fighting under the control of Jas. Kerapac can be fought 
 If you would like a breakdown of Kerapac's mechanics as well as good ways to deal with them you can check the mechanics summary found here: <#1020559705204076614>.
 
 It is important to note that Kerapac is affected by the Nodon Dragonkin slayer task. The slayer helmet <:slayerhelm:798285340460449792> bonus, genocidal <:genocidal:689503091539705870> bonus, and the <:premierartefact:918517285176623104> Premier Artefact slayer boost (10% chance to stop slayer count decreasing) will work on Kerapac; however, Tuska's Wrath <:Tuskas:513201065513058306> will not be boosted, Dragon Slayer <:dragonslayerperk:689502927731163170> <:dragonslayer:641339921814126594> does not work, and Dragon Bane equipment <:bane2h:859483155210567741> does not work.
-
-.
-## __Drops__
-.tag:drops
-Kerapac's drops include three components to create the tier 95 Staff of Armadyl <:soa:869284271595069451>, and a pet with a new skin unlocked at 1,000 Hard Mode kills. He always drops 3 piles of loot regardless of teamsize. In a solo, a player will receive all 3 drops; in a trio, each player receives a drop; in a duo, the highest DPS receives two drops and the other receives one drop. It is important to note that Staff of Armadyl <:soa:869284271595069451> pieces **are exclusive to hardmode encounters**.
 
 .
 ### Normal & Hardmode
@@ -79,7 +74,7 @@ This method will reliably allow you to get consistent Kerapac (NM) kills without
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Ranged | Low Effort](https://pvme.github.io/preset-maker/#/aEVJQaf08RCYaexBFDx1)",
         "inline": true
       }
@@ -137,7 +132,7 @@ This method will reliably allow you to get consistent Kerapac (NM) kills without
     • Nodon Dragonkin Task <:slayerhelm:798285340460449792> is **active**
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .
 {
   "embed": {
@@ -148,7 +143,7 @@ This method will reliably allow you to get consistent Kerapac (NM) kills without
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Magic | Low Effort](https://pvme.github.io/preset-maker/#/pM6qIe9QiU1mgacgD9cy)",
         "inline": true
       }
@@ -175,7 +170,7 @@ https://www.youtube.com/watch?v=5qhkhmLsKaU
 .tag:loweffortmelee
 .
 ### Explanation
-This method will reliably allow you to get consistent Kerapac (NM) kills without needing much input or effort. Consistency and safety are attained through a heavy focus on maximising the Blood Reaver familiar's potential, utilizing weapon poison, Abyssal Parasites, and many sources of healing. It is strongly recommended to have a slayer task (with slayer helm on your anachronia slayer lodge stand) when using this method.
+This method will reliably allow you to get consistent Kerapac (NM) kills without needing much input or effort. Consistency and safety are attained through a heavy focus on maximising the Blood Reaver familiar's potential, utilising weapon poison, Abyssal Parasites, and many sources of healing. It is strongly recommended to have a slayer task (with slayer helm on your anachronia slayer lodge stand) when using this method.
 
 ⬥ Auras:
     • <:vamp:643505653079343144> Vampyrism provides extra safety through its healing and provides more poison damage via Blood Reaver passive ability. Due to the constant damage being taken while fighting Kerapac, this is by far the safest and most reliable aura choice to afk with.
@@ -205,7 +200,7 @@ This method will reliably allow you to get consistent Kerapac (NM) kills without
     • Nodon Dragonkin Task <:slayerhelm:798285340460449792> is **active**
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .
 {
   "embed": {
@@ -216,7 +211,7 @@ This method will reliably allow you to get consistent Kerapac (NM) kills without
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Melee | Low Effort](https://pvme.io/preset-maker/#/qvl0biSm4UagNZ2aOzSN)",
         "inline": true
       }
@@ -262,7 +257,7 @@ This tool reads your screen, and based on certain lines of dialogue in your chat
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Drops]($linkmsg_drops$)\n⬥ [Low Effort Ranged Method]($linkmsg_loweffortrange$)\n⬥ [Low Effort Magic Method]($linkmsg_loweffortmagic$)\n⬥ [Low Effort Melee Method]($linkmsg_loweffortmelee$)\n⬥ [Alt1 Kerapac NM Helper]($linkmsg_alt1$)",
+    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Low Effort Ranged Method]($linkmsg_loweffortrange$)\n⬥ [Low Effort Magic Method]($linkmsg_loweffortmagic$)\n⬥ [Low Effort Melee Method]($linkmsg_loweffortmelee$)\n⬥ [Alt1 Kerapac NM Helper]($linkmsg_alt1$)",
     "color": 39423
   }
 }

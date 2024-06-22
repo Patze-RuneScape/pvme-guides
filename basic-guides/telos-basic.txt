@@ -1,30 +1,27 @@
 # Basic Guide: Telos
-.img:https://img.pvme.io/images/jtVMJ7sHgv.png
+.img:https://img.pvme.io/images/X0pACbKpyT.png
 ## __Disclaimer__
 .tag:disclaimer
-This guide is made with the idea of getting started at Telos, and does not cover meta strategies, for that refer to <#1020754263665811529> or <#1091447886933405738>, or if using other styles visit <#1020754537126035487> and <#1110992295995641976> / <#1097573373078409318>.
+This guide is made with the idea of getting started at Telos, and does not cover meta strategies, for that refer to <#1252206367645896715> or <#1252206377393455175>, or if using other styles visit <#1252206370657271878> and <#1252206382267240469> / <#1252206380241125427>.
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:presets
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/WqLIvQYbqs.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Magic w/ Statius's Warhammer](https://pvme.github.io/preset-maker/#/uCYUF3PdRTGiEaTRnXMF)\n⬥ [Magic w/o Statius's Warhammer](https://pvme.github.io/preset-maker/#/pi3Mt9McC4EVfYjOGCNZ)",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Magic - Statius's Warhammer](https://pvme.github.io/preset-maker/#/uCYUF3PdRTGiEaTRnXMF) <:magic:689504724159823906>\n⬥ [Magic - No Statius's Warhammer](https://pvme.github.io/preset-maker/#/pi3Mt9McC4EVfYjOGCNZ) <:magic:689504724159823906>"
       }
     ]
   }
 }
 .embed:json
-
 .
 ## __Enrage Mechanics__
 .tag:enrage
@@ -93,11 +90,11 @@ This guide is made with the idea of getting started at Telos, and does not cover
       },
       {
         "name": "__Magic Onslaught__",
-        "value": "⬥ Telos stops moving and fires gradually stronger magic attacks until the phase meter is depleted.\n\u00a0\u00a0\u00a0\u00a0• Move Telos out of the beam before this attack starts so the bar doesn't fill too much.\n\u00a0\u00a0\u00a0\u00a0• If Telos starts this attack while in the beam, block it by standing in it.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0⬩ Use <:DeflectMage:544195487926845462>, restort to <:devo:513190158728953857> and/or <:reflect:535541258786177064> if the meter was charged too much."
+        "value": "⬥ Telos stops moving and fires gradually stronger magic attacks until the phase meter is depleted.\n\u00a0\u00a0\u00a0\u00a0• Move Telos out of the beam before this attack starts so the bar doesn't fill too much.\n\u00a0\u00a0\u00a0\u00a0• If Telos starts this attack while in the beam, block it by standing in it.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0⬩ Use <:DeflectMage:544195487926845462>, resort to <:devo:513190158728953857> and/or <:reflect:535541258786177064> if the meter was charged too much."
       },
       {
         "name": "__Virus__",
-        "value": "⬥ The player receives a coloured virus that deals constant damage.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0⬩ Stand in the beam to clease the virus."
+        "value": "⬥ The player receives a coloured virus that deals constant damage.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0⬩ Stand in the beam to cleanse the virus."
       }
     ]
   }
@@ -149,7 +146,7 @@ This guide is made with the idea of getting started at Telos, and does not cover
       },
       {
         "name": "__Font 3__",
-        "value": "⬥ Wrap around the center of the room and wait for the three golems to spawn.\n\u00a0\u00a0\u00a0\u00a0• When the golems reach you, (tc) furthest golem → <:ent:567727987274022924> + <:corruptblast:513190159194259467> + <:surge:535533810004262912>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0⬩ See example [here](https://img.pvme.io/images/dyeeCcK.mp4)\n\u00a0\u00a0\u00a0\u00a0• Chrage the font and phase Telos into P5."
+        "value": "⬥ Wrap around the center of the room and wait for the three golems to spawn.\n\u00a0\u00a0\u00a0\u00a0• When the golems reach you, (tc) furthest golem → <:ent:567727987274022924> + <:corruptblast:513190159194259467> + <:surge:535533810004262912>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0⬩ See example [here](https://img.pvme.io/images/dyeeCcK.mp4)\n\u00a0\u00a0\u00a0\u00a0• Charge the font and phase Telos into P5."
 
       },
       {

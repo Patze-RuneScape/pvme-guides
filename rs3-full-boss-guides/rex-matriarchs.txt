@@ -1,6 +1,6 @@
 # Rex Matriarchs
 .tag:intro
-.img:https://img.pvme.io/images/WMuh3FJd8w.png
+.img:https://img.pvme.io/images/k1pBa3wBhP.png
 
 .
 ## __Introduction__
@@ -265,21 +265,21 @@ __**Osseous**__
 
 ⬥ Teleport to Wars Retreat <:warsretreatteleport:1032540079589163049> after each kill to reset cooldowns
 ⬥ Stand in melee distance
-⬥ Pre-cast <:conjurearmy:1166094935066423348> → <:lifetransfer:1137809128136388819> → <:invokedeath:1137809121983336548> → <:splitsoul:1137809168368148490> → <:commandskeleton:1137809194423160883>
+⬥ Pre-cast <:conjurearmy:1166094935066423348> → <:commandghost:1159434409913634816> → <:invokedeath:1137809121983336548> → <:splitsoul:1137809168368148490> → <:commandskeleton:1137809194423160883>
 ⬥ Optionally start the fight with <:smokecloud:856635090641879050>
-⬥ (tc) <:deathskulls:1159434663903899728> → <:soulsap:1137809140476031057> → <:touchofdeath:1137809175980810380> → <:necroauto:1137809137401602109> → <:soulsap:1137809140476031057> → <:livingdeath:1159434908486357072> + <:adrenrenewal:736298121704767538> → <:touchofdeath:1137809175980810380> → <:deathskulls:1159434663903899728>+<:undeadslayer:641339922019516416> → <:omniguard:1138809234922934282><:spec:537340400273195028> → <:necroauto:1137809137401602109> → <:fingerofdeath:1159434801938432010> → <:necroauto:1137809137401602109> → <:fingerofdeath:1159434801938432010> → <:necroauto:1137809137401602109> → <:deathguard90:1138809243143766118> <:eof:787526151978614824>
+⬥ (tc) <:vulnbomb:655341074235129858> + <:deathskulls:1159434663903899728> → <:soulsap:1137809140476031057> → <:touchofdeath:1137809175980810380> → <:necroauto:1137809137401602109> → <:soulsap:1137809140476031057> → <:livingdeath:1159434908486357072> + <:adrenrenewal:736298121704767538> → <:touchofdeath:1137809175980810380> → <:deathskulls:1159434663903899728> + <:undeadslayer:641339922019516416> → <:omniguard:1138809234922934282> <:spec:537340400273195028> → <:necroauto:1137809137401602109> → <:fingerofdeath:1159434801938432010> (+ <:disrupt:535614336207552523> *Minion Summon*) → <:necroauto:1137809137401602109> → <:fingerofdeath:1159434801938432010> → <:necroauto:1137809137401602109> → <:deathguard90:1138809243143766118> <:eof:787526151978614824>
 
 
 .
-## __AFK Stratgies__
+## __AFK/Low Effort Strategies__
 .tag:afk
-Links to AFK guides can be found below.
+Links to AFK/Low Effort guides can be found below.
 
-⬥ <#1108592750238126154>
-⬥ <#1023077451326296175>
+⬥ <#1251377261798756403>
+⬥ <#1251377303158788149>
 ⬥ <#1245370187016831118>
-⬥ *Note: AFK Pthentraken no longer works after changes to <:surge:535533810004262912>*
-
+⬥ <#1248007832800989304>
+    • *Note: AFK Pthentraken no longer works after changes to <:surge:535533810004262912>*
 
 .
 Content Provided by: *Various*
@@ -288,7 +288,7 @@ Formatting Maintained by: <@839236111054143508>
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Mechanics]($linkmsg_mechanics$)\n⬥ [Active Strategies]($linkmsg_methods$)\n⬥ [Presets and Relics]($linkmsg_presets$)\n⬥ [Rotations]($linkmsg_rotations$)\n⬥ [AFK Strategies]($linkmsg_afk$)",
+    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Mechanics]($linkmsg_mechanics$)\n⬥ [Active Strategies]($linkmsg_methods$)\n⬥ [Presets and Relics]($linkmsg_presets$)\n⬥ [Rotations]($linkmsg_rotations$)\n⬥ [AFK/Low Effort Strategies]($linkmsg_afk$)",
     "color": 39423
   }
 }

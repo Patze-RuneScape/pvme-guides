@@ -1,16 +1,16 @@
 # Solo Nex
-.img:https://img.pvme.io/images/Y5LIGHuf6o.png
+.img:https://img.pvme.io/images/EHBFVhLaE2.png
 *Note: a **Table of Contents** can be found in the pins.*
 
 .
 ## __Introduction__
 .tag:intro
-When Nex spawns for the first time in a custom instance it will be praying Deflect Magic <:DeflectMage:544195487926845462> for the majority of the kill, this is why Range only kills are the meta for fast consistent kills. After every kill you will teleport out of the instance and re-enter in order to force Nex to always be praying Deflect Mage <:DeflectMage:544195487926845462>
+When Nex spawns for the first time in a custom instance it will be praying Deflect Magic <:DeflectMage:544195487926845462> for the majority of the kill, this is why Ranged only kills are the meta for fast consistent kills. After every kill you will teleport out of the instance and re-enter in order to force Nex to always be praying Deflect Mage <:DeflectMage:544195487926845462>
 
 *Note: It is strongly advised to complete the **Ritual of the Mahjarrat** quest in order to get access to the Jas boost which gives a 5% damage boost in GWD1 (including Nex). This can be done via Fairy ring code D.K.Q.*
 
 .
-## __Presets__
+## __Presets and Relics__
 .tag:presets
 ### Banking Preset
 ⬥ The most important thing is to have a Frozen key + Ancient Ceremonial set for use with your boss portal.
@@ -19,7 +19,7 @@ When Nex spawns for the first time in a custom instance it will be praying Defle
 ⬥ A T70+ Defender is required for Ancient Emblem <:ancientemblem:643506778453049355> drops
     • This is used to make the T80 Defenders (<:ancientdefender:643846874498990120> / <:ancientlantern:580177522503712781> / <:ancientrepriser:643150658891153428>)
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .
 {
   "embed": {
@@ -30,7 +30,7 @@ When Nex spawns for the first time in a custom instance it will be praying Defle
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Ranged w/ Bow of the Last Guardian](https://pvme.github.io/preset-maker/#/Ktd67e6zM9j5ujnWBtN5)",
         "inline": true
       }
@@ -124,7 +124,7 @@ Tag with <:deadshot:535541307666595870> → <:gricoswift:1022926109597237329> �
         "value": "⬥ [Example](https://i.gyazo.com/4b95ab751478b2e5d41385f6a184cf8f.mp4)\n\u200B"
       },
       {
-        "name": "__Pefect Blood → Ice__",
+        "name": "__Perfect Blood → Ice__",
         "value": "⬥ [Example](https://i.gyazo.com/ec1807b815601c7867562f08fb090110.mp4)\n\u200B"
       }
     ]

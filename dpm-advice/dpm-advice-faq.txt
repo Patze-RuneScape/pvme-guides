@@ -9,7 +9,7 @@ This channel will cover fundamental terminology, discuss full manual vs. revolut
 .
 ## __Related Channels__
 .tag:related
-For futher information and reading, you can refer to the following resources.
+For further information and reading, you can refer to the following resources.
 .
 {
   "embed": {
@@ -19,12 +19,12 @@ For futher information and reading, you can refer to the following resources.
     "fields": [
       {
         "name": "__Basic DPM-Advice Channels__",
-        "value": "⬥ <#1097876274095063143>\n⬥ <#1081014900635226162>\n⬥ <#1100005777353232406>",
+        "value": "⬥ <#1251303694818082826>\n⬥ <#1251303691911172157>\n⬥ <#1251303696554397718>",
         "inline": true
       },
       {
         "name": "__DPM-Advice Channels__",
-        "value": "⬥ <#1020729755064074291>\n⬥ <#1020729582086782996>\n⬥ <#1020729671127662643>",
+        "value": "⬥ <#1252196384321568893>\n⬥ <#1252196381851127870>\n⬥ <#1252196383159484519>",
         "inline": true
       },
       {
@@ -103,7 +103,7 @@ A full list of abbreviations can be found [here](https://runescape.wiki/w/Glossa
     • If you have full adrenaline, but cannot use a damage-boosting ultimate, you can use a couple thresholds while waiting for the cooldown.
 
 ### Setting Up A Revolution Bar
-⬥ Strong basics are prioritized over weaker basics.
+⬥ Strong basics are prioritised over weaker basics.
 ⬥ At least one short cooldown ability is placed at the front to help with ability cooldowns.
 ⬥ **Avoid normal Fury <:fury:535532879510372352> and normal Concentrated Blast <:conc:1087373968731811880> if you do not manually cancel them after 2 hits.**
     • Revolution does *not* do this for you, it channels them for the full 3 hits.
@@ -233,7 +233,7 @@ A full list of abbreviations can be found [here](https://runescape.wiki/w/Glossa
 
 ## __How to Build a Rotation__
 .tag:rotation
-***Note**: This is just one example for one style. More detailed and style-specific information can be found in their respective channels: <#1097876274095063143> / <#1081014900635226162> / <#1100005777353232406> and <#1020729755064074291> / <#1020729582086782996> / <#1020729671127662643>.*
+***Note**: This is just one example for one style. More detailed and style-specific information can be found in their respective channels: <#1251303694818082826> / <#1251303691911172157> / <#1251303696554397718> and <#1252196384321568893> / <#1252196381851127870> / <#1252196383159484519>.*
 .
 ### Factors to Consider
 ⬥ A rotation is a general order of abilities we try to follow to maximize our DPS. This is achieved taking into account a number of factors, such as:
@@ -270,7 +270,7 @@ A full list of abbreviations can be found [here](https://runescape.wiki/w/Glossa
 .
 ### When To Use Thresholds / Ultimates
 ⬥ We want to use our damage-boosting ultimates ( <:sunshine:994921119381463070> <:deathsswift:994921434633744455> <:zerk:535532854004678657> ) as often as we can, if the fight will last longer than the duration of the ultimate.
-⬥ Inside the ultimate, the goal is to use as many good thresholds, modified ultimates (like Overpower with an Ingeous Kal-Ket <:overpowerigneous:959089455640215633> ) and special attacks <:spec:537340400273195028> as possible, and minimize the use of weak abilities.
+⬥ Inside the ultimate, the goal is to use as many good thresholds, modified ultimates (like Overpower with an Igneous Kal-Ket <:overpowerigneous:959089455640215633> ) and special attacks <:spec:537340400273195028> as possible, and minimize the use of weak abilities.
     • During cooldowns, we will continue to use strong basics.
 ⬥ After the ultimate ability ends, while waiting for it to come back off cooldown, we can use a few thresholds.
 
@@ -377,7 +377,7 @@ It may seem obvious, but ensuring that you are not missing anything in terms of 
 
 .
 ### How to Fix
-⬥ Read the __**Ability Prioritisation**__ sections in the style-specific channels to get an idea of how to prioritize abilities for each style (<#1020729755064074291>, <#1020729582086782996>, <#1020729671127662643>).
+⬥ Read the __**Ability Prioritisation**__ sections in the style-specific channels to get an idea of how to prioritise abilities for each style (<#1252196384321568893>, <#1252196381851127870>, <#1252196383159484519>).
 ⬥ For more information, check out the **Ability Damage Maths** spreadsheet in <#1020550621222408282>.
 ⬥ Also, an explanation of how most abilities work can be found in <#1128137032418467890>.
 
@@ -386,7 +386,7 @@ It may seem obvious, but ensuring that you are not missing anything in terms of 
 .tag:cooldowns
 ### Why It's Important
 ⬥ Strong abilities often come with long cooldowns. If you use all your strong abilities at once, you will be forced to use many weak abilities during the cooldown.
-⬥ By contrast, managing the cooldowns lets you use a balance of very strong and and moderately strong abilities, and for the most part, *avoid weak abilities altogether*.
+⬥ By contrast, managing the cooldowns lets you use a balance of very strong and moderately strong abilities, and for the most part, *avoid weak abilities altogether*.
 
 .
 ### How to Fix

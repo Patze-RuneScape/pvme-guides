@@ -48,7 +48,7 @@ To enter combat mode you simply press the shield and sword icon in the bottom le
 ### Combat Settings
 ⬥ Used to enable and disable combat mode.
 ⬥ Opens menu to select your Main Action Bar.
-⬥ This is primarly used to change the contents of your ability bars.
+⬥ This is primarily used to change the contents of your ability bars.
 ⬥ Long tapping this will lock and unlock your ability bars.
     • Allows you to drag and drop items from your inventory and worn equipment onto your ability bar.
 
@@ -68,7 +68,7 @@ To enter combat mode you simply press the shield and sword icon in the bottom le
 .
 ⬥ Revolution Action Bar remains the same and Main action bar has been swapped
     • This action bar may be for a specialised dps rotation, to deal with mechanics, etc.
-    • This normally will include abilities which yould would otherwise be unable to cast back to back from ability books.
+    • This normally will include abilities which you would otherwise be unable to cast back to back from ability books.
         ⬩ An example of this would be <:ingen:641339234111848463> + <:ent:567727987274022924> + ability
 
 .
@@ -79,27 +79,24 @@ Plenty of content is able to be done completely afk, below is a list of some exa
 
 .
 ### AFK Guides
-⬥ <#1030236680877248512>
-⬥ <#1030236725991194665>
-⬥ <#1030236677106581515>
-⬥ <#1030236711013318738>
-⬥ <#1141496931168825384>
-⬥ <#1030236721922723850>
-⬥ <#1023079552819396689>
-⬥ <#1021945891000680498> (HM)
-⬥ <#1148996768382591047> (HM)
-⬥ <#1148984883964813384>
+⬥ <#1251377278475178075>
+⬥ <#1251377290995306516>
+⬥ <#1251377275639955456>
+⬥ <#1251377282770010132>
+⬥ <#1251377287384006656>
+⬥ <#1251377265368109076>
+⬥ <#1251377259038773310> (HM)
+⬥ <#1251377318882971708>
 ⬥ <#1020052687070445618>
-⬥ <#1141496158456401980>
-⬥ <#1050090843786190931> (HM)
-⬥ <#1141495921755029674>
-⬥ <#1023080021356728320>
-⬥ <#1145372402751115274>
+⬥ <#1251209152647135332>
+⬥ <#1251209149987946596>
+⬥ <#1251377267746275509>
+⬥ <#1251377312730058833>
 *Note: This may be outdated. For a full list feel free to use `!afkguides` in <#534563158304620564>.*
 
 .
 ### Non-Afk Content
-⬥ Require manually inputing defensives, prayer flicking, and weapon switches.
+⬥ Require manually inputting defensives, prayer flicking, and weapon switches.
 ⬥ These bosses may require periods of high damage, lots of prayer flicking and different abilities required on an additional main action bar.
 
 .

@@ -57,11 +57,12 @@ Spiritual warriors have four different variants, each resembling their respectiv
 ### Location and How to Get there
 .tag:location
 The best place to kill spiritual warriors is in the Sunken Pyramid due to how spread out they are in other locations. You can teleport there with a teleport to house tablet, or with a Slayer Codex <:slayercodex:1097517249499254875>
+    • Spiritual warriors will only spawn as the version you captured
 
 .
 ## __Method: Magic and Melee__
 .tag:method
-⬥ Spiritual warriors can be AFK'ed for extended periods with minimal inputs required
+⬥ Spiritual warriors can be AFK'd for extended periods with minimal inputs required
     • It is possible to AFK them with only one input every 10 minutes
 ⬥ Sacrifice <:sacrifice:513201065907322880> is used to help sustain your life points
 ⬥ They're aggressive to you if you're not wearing any armour for their respective faction; however, using aggression potions <:aggressionpotion:925794592199147581> will net you a higher kph and requires less inputs
@@ -77,7 +78,7 @@ The best place to kill spiritual warriors is in the Sunken Pyramid due to how sp
 .
 {
   "embed": {
-    "title": "__Presets__",
+    "title": "__Preset Suggestions__",
     "color": 39423,
     "description" : "⬥ [Magic alt](https://pvme.github.io/preset-maker/#/GtENO3qya9oxhNFifh1q)\n⬥ [Magic max](https://pvme.github.io/preset-maker/#/XhN6oo0gvBf2AI0M8I4D)\n⬥ [Melee](https://pvme.github.io/preset-maker/#/l8ENoGbUVvKoUYXGKP1X)"
   }

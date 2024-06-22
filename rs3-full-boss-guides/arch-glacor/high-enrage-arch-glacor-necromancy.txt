@@ -1,34 +1,30 @@
 # Arch-Glacor: High Enrage (Necromancy)
-.
-.img:https://img.pvme.io/images/fs1qnYD.png
-.
+.img:https://img.pvme.io/images/nRwTsLjidK.png
 
 .
 ## __Introduction__
 .tag:intro
 *Note: a **Table of Contents** can be found in the pins.*
 
-This guide is aimed at players looking to kill Arch-Glacor at **3500%-4000%** Enrage and assumes strong underlying knowledge of all information presented in <#1034830043114909766>.
+This guide is aimed at players looking to kill Arch-Glacor at **3500%-4000%** Enrage and assumes strong underlying knowledge of all information presented in <#1251054659750330518>.
 
 This guide will also work at **0%-3500%**, however should be adjusted as required.
 
 The Arch-Glacor is **not** affected by Slayer tasks in hard mode.
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:presets
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/guEiijrGmM.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Necromancy](https://pvme.github.io/preset-maker/#/3sFXyzpMNFU9u7rUtThk)",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Necromancy preset](https://pvme.github.io/preset-maker/#/3sFXyzpMNFU9u7rUtThk) <:necromancy:1148995625896120460>"
       }
     ]
   }
@@ -99,7 +95,7 @@ __Example Arms rotation:__
 *Note: <:soulsplit:615613924506599497> flick on volley as required for healing.*
 .
 ### Defensive Usage
-⬥ At higher enrage, you will want to prioritize defensives as follows,
+⬥ At higher enrage, you will want to prioritise defensives as follows,
     • **Frost Cannon**: <:anti:535541306475151390> → <:DeflectMage:544195487926845462> <:reflect:535541258786177064> → <:soulsplit:615613924506599497> <:res:535541258844635148>
     • **Exposed Core** (arms): <:devo:513190158728953857> → <:divert:787904334377648130> → <:cade:535541306353778689> as needed
     • **Glacyte Minions**: <:debil:535541278264393729> (and, rarely, <:anti:535541306475151390>/<:freedom:535541258240786434> to block or clear stun)

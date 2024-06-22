@@ -1,5 +1,5 @@
-# Vorago - Solo Hardmode
-.img:https://img.pvme.io/images/Z8BZZn6CBU.png
+# Vorago - Solo Hardmode w/Magic
+.img:https://img.pvme.io/images/sY7JVkg9No.png
 .
 ## __Intro__
 .tag:intro
@@ -9,17 +9,8 @@
     • Therefore, a strong understanding of the combat system is required.
 ⬥ A basic understanding of the boss and P10/11 pushback is assumed.
     • A strong knowledge of solo normal mode P5 will translate well over to hardmode and save time learning.
-⬥ It is recommended to read <#1020809634593910876> first for base knowledge of solo Vorago.
+⬥ It is recommended to read <#1252694453198786641> first for base knowledge of solo Vorago.
 ⬥ This guide will focus primarily on getting a first kill. So, with experience, some strategies can be improved to be faster.
-
-.
-## __Drops__
-.tag:drops
-⬥ There are five drops per kill.
-⬥ Each drop has a 4/5 chance of 2 Tectonic Energies <:tectenergy:643161473375272990>.
-⬥ Each drop has a 1/100 chance at a Seismic weapon <:seiswand:583429704837758997> <:sing:513190159261630467>, with both weapons having an equal chance. Only one Seismic can drop per kill.
-⬥ Each drop has a 1/2500 chance of an Ancient Summoning Stone <:ancientsummstone:643169166056095780>, with a threshold of 1000 kills.
-⬥ Each drop has a 1/50 chance of an Ancient artefact <:ancientartefact:643169166081130517>, with no threshold. This drop is only available if the player has mauled Vorago in all hardmode rotations.
 
 .
 ## __Minimum Requirements__
@@ -27,7 +18,7 @@
 ⬥ <:divert:787904334377648130> **Divert**
 
 .
-## __Presets__
+## __Presets and Relics__
 .tag:presets
 ⬥ <:ingen:641339234111848463> **Ingenuity of the Humans**
 ⬥ <:surgecodex:602561894414417944> **Double Surge**
@@ -74,7 +65,7 @@
         ⬩ Useful for bleeds on Vitalis, second green/red stack on GB, and second stand on PB.
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .
 {
   "embed": {
@@ -85,7 +76,7 @@
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Magic](https://pvme.github.io/preset-maker/#/QCHYej95FZ289ywZNvMe)\n⬥ [Magic w/ Black Stone Arrows](https://pvme.github.io/preset-maker/#/5vym8z4D8eTPGni1Cn7E)\n⬥ [Magic w/ Blood Reaver & Black Stone Arrows](https://pvme.github.io/preset-maker/#/5vym8z4D8eTPGni1Cn7E)",
         "inline": true
       }
@@ -104,7 +95,7 @@
 
 ⬥ The Invention dummy <:dummy:656844963522281473> can be replaced for another MTX dummy to bring an extra primal feast <:primalfeast:651079281849532416> or brew <:supersara:642708771344482314>.
 
-⬥ When using Blood Reaver you will need to set up the faimilar to passive, this way it will always follow you and you won't need to recall it every time you move away from it.
+⬥ When using Blood Reaver you will need to set up the familiar to passive, this way it will always follow you and you won't need to recall it every time you move away from it.
 
 .
 ### BoB Preset
@@ -125,7 +116,7 @@
 .
 ### Unique Invention Perks
 ⬥ <:arcanespiritshield:690976219612708954> **Arcane Spirit Shield** - <:turtling3:974504834394898522> + <:reflexes:954725655927463966>
-    • <:turtling3:974504834394898522> is utilized over <:turt4:712073737377284146> as the substantially longer <:cade:535541306353778689> barricade cooldown is not worth the longer cade duration.
+    • <:turtling3:974504834394898522> is utilised over <:turt4:712073737377284146> as the substantially longer <:cade:535541306353778689> barricade cooldown is not worth the longer cade duration.
     • <:reflexes:954725655927463966> is used to ease adrenaline building during teamsplit spawns on P10.
     • <:turtling3:974504834394898522> + <:reflexes:954725655927463966> combo: 6 <:evasivecomp:643829647049752586> + 1 <:historiccomps:697405254676906018> + 1 <:harnessedcomp:583428397296910356> + 1 <:dextrouscomp:607288026263191563> (1/8 at 137 invention, components added in order).
 
@@ -143,7 +134,7 @@
 .
 ## __Phase 1__
 .tag:p1
-⬥ Vitality pot <:vitality:654618235097972737> last tick of dropdown message. The damage taken will be calculated off of your previt pot HP but will be applied on your boosted hp value.
+⬥ Vitality pot <:vitality:654618235097972737> last tick of dropdown message. The damage taken will be calculated off of your pre-vit pot HP but will be applied on your boosted hp value.
 .
 .img:https://img.pvme.io/images/PQHUORX.mp4
 .
@@ -485,7 +476,7 @@
 ⬥ Important particularities to consider
     • <:omni:535533809664262179> → <:asphyx:535533833072672778> will often result in 3 tile pushback alone
     • <:gconc:869285393223254107> → <:gstaff:513203008608141314> <:eofspec:746403211908481184> → <:wm:535533809978966037> / (3t) <:asphyx:535533833072672778> / <:dbreath:535533833391702017> → repeat or <:gconc:869285393223254107> → <:wm:535533809978966037> / (3t) <:asphyx:535533833072672778> / <:dbreath:535533833391702017> → <:gstaff:513203008608141314> <:eofspec:746403211908481184> is good filler
-    • Affinity debuffs should be running out soon so prioritize <:gstaff:513203008608141314> <:eofspec:746403211908481184> as a filler
+    • Affinity debuffs should be running out soon so prioritise <:gstaff:513203008608141314> <:eofspec:746403211908481184> as a filler
     • If far <:teamsplitredblue:956854185591197776> spawn, use an ability → <:surge:535533810004262912> → click out of melee range out of Vorago or <:vitality:654618235097972737> and tank
     • Try to <:disrupt:535614336207552523> last blue bomb before reflect, this blue will almost always go off inside reflect, meaning you can't use it to stall reflect start to deal more damage.
     • Do not <:soa:869284271595069451> <:spec:537340400273195028> out of <:teamsplitredblue:956854185591197776> if out of immediate attack range as you will not receive the Instability effect but will lose adrenaline, for some reason it doesn't get stalled and you lose the spec.
@@ -785,11 +776,6 @@
       {
         "name": "__Introduction__",
         "value": "[Link]($linkmsg_intro$)",
-        "inline": true
-      },
-      {
-        "name": "__Drops__",
-        "value": "[Link]($linkmsg_drops$)",
         "inline": true
       },
       {

@@ -1,5 +1,5 @@
 # Marks of War Farming
-.img:https://img.pvme.io/images/LuuRiDd.jpg
+.img:https://img.pvme.io/images/1fZdXd5U3v.png
 *Note: a **Table of Contents** can be found in the pins.*
 
 .
@@ -11,7 +11,7 @@
 .
 ## __Introduction__
 .tag:intro
-Marks of War <:marksofwar:704701746869567551> are an essential resource needed to PvM effectively, as they allow you to reset your auras. Auras provide various benefits which range from increasing your damage output, to increasing your survivability. Obtaining Marks of War <:marksofwar:704701746869567551> is time-gated, as you're limited to 1000 marks per hour. This guide focuses on the fastest AFK method to reach this cap. For convinience, this method does not require the usage of auras.
+Marks of War <:marksofwar:704701746869567551> are an essential resource needed to PvM effectively, as they allow you to reset your auras. Auras provide various benefits which range from increasing your damage output, to increasing your survivability. Obtaining Marks of War <:marksofwar:704701746869567551> is time-gated, as you're limited to 1000 marks per hour. This guide focuses on the fastest AFK method to reach this cap. For convenience, this method does not require the usage of auras.
 
 ⬥ Commonly used auras in PvM include: [Berserk](<https://runescape.wiki/w/Berserker_aura>) <:berserker:643505116347105290>, [Maniacal](<https://runescape.wiki/w/Maniacal_aura>) <:mani:643505153709965322>, [Reckless](<https://runescape.wiki/w/Reckless_aura>) <:reckless:643505179378974748>, [Penance](<https://runescape.wiki/w/Penance_aura>) <:penanceaura:643505653062565907>, and [Vampyrism](<https://runescape.wiki/w/Vampyrism_aura>) <:vampaura:643505653079343144>
 ⬥ In order to reach the cap of Marks of War <:marksofwar:704701746869567551>, 5 normal mode Kerapac kills are required; with each kill giving 200 marks
@@ -25,12 +25,12 @@ Marks of War <:marksofwar:704701746869567551> are an essential resource needed t
 {
   "embed": {
   "title": "__Mandatory AFK Requirements__",
-    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>",
+    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
     "color": 39423,
     "fields": [
       {
         "name": "__Items__",
-        "value": "⬥ [Bow of the Last Guardian](https://runescape.wiki/w/Bow_of_the_Last_Guardian) <:bolg:994189289623662702>\n\u00a0\u00a0\u00a0\u00a0• Must be perked with [Caroming 4](https://runescape.wiki/w/Caroming) <:caroming4:791281588792590336>\n⬥ Armour must be perked with:\n\u00a0\u00a0\u00a0\u00a0• [Lucky 6](https://runescape.wiki/w/Lucky) <:lucky6:890542428287795221>\n\u00a0\u00a0\u00a0\u00a0• [Absorbative 4](https://runescape.wiki/w/Absorbative) <:absorbative4:890542428556230666>\n\u00a0\u00a0\u00a0\u00a0• [Crystal Shield 4](https://runescape.wiki/w/Crystal_Shield_(perk)) <:crystalshield4:921410343606034443>\n⬥ [Scripture of Wen](https://runescape.wiki/w/Scripture_of_Wen) <:scriptureofwen:883134307902816297>\n⬥ [Bik arrows](https://runescape.wiki/w/Bik_arrow) <:bikarrow:971025697235689513>\n⬥ [Igneous Kal-Xil](https://runescape.wiki/w/Igneous_Kal-Xil) <:igneouskalxil:902209626404171786> or [Igneous Kal-Zuk](https://runescape.wiki/w/Igneous_Kal-Zuk) <:igneouskalzuk:902209626479685734>"
+        "value": "⬥ [Bow of the Last Guardian](https://runescape.wiki/w/Bow_of_the_Last_Guardian) <:bolg:994189289623662702>\n\u00a0\u00a0\u00a0\u00a0• Must be perked with [Caroming 4](https://runescape.wiki/w/Caroming) <:caroming4:791281588792590336>\n⬥ The following perks are recommended:\n\u00a0\u00a0\u00a0\u00a0• [Lucky 6](https://runescape.wiki/w/Lucky) <:lucky6:890542428287795221>\n\u00a0\u00a0\u00a0\u00a0• [Absorbative 4](https://runescape.wiki/w/Absorbative) <:absorbative4:890542428556230666>\n\u00a0\u00a0\u00a0\u00a0• [Crystal Shield 4](https://runescape.wiki/w/Crystal_Shield_(perk)) <:crystalshield4:921410343606034443>\n⬥ [Scripture of Wen](https://runescape.wiki/w/Scripture_of_Wen) <:scriptureofwen:883134307902816297>\n⬥ [Bik arrows](https://runescape.wiki/w/Bik_arrow) <:bikarrow:971025697235689513>\n⬥ [Igneous Kal-Xil](https://runescape.wiki/w/Igneous_Kal-Xil) <:igneouskalxil:902209626404171786> or [Igneous Kal-Zuk](https://runescape.wiki/w/Igneous_Kal-Zuk) <:igneouskalzuk:902209626479685734>"
       },
       {
         "name": "__Abilities__",
@@ -38,7 +38,7 @@ Marks of War <:marksofwar:704701746869567551> are an essential resource needed t
       },
       {
         "name": "__Other__",
-        "value": "⬥ [Animate Dead](https://runescape.wiki/w/Animate_Dead) <:animatedead:856635090453135382>\n\u00a0\u00a0\u00a0\u00a0• Only if using [Cryptbloom boots](https://runescape.wiki/w/Cryptbloom_boots) <:cryptbloomboots:892819107236433930>\n⬥ [Blood reaver](https://runescape.wiki/w/Blood_reaver_(familiar)) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• Does **not** require scrolls <:reaverscroll:1022562484378419284>, but using them is safer\n\u00a0\u00a0\u00a0\u00a0• If using scrolls <:reaverscroll:1022562484378419284>, set your auto fire rate to 20\n⬥ [Bonfire Boost](https://runescape.wiki/w/Bonfire_Boost_Active) <:firemaking:1011705727041163396> and [Ogre flask (thermal)](https://runescape.wiki/w/Ogre_flask_(thermal)) <:thermalflask:689530593796423724>\n⬥ It is important to **NOT** have Relentless <:relentless5:712244800920748092> and Impatient <:impatient:848803118706720798>"
+        "value": "⬥ [Animate Dead](https://runescape.wiki/w/Animate_Dead) <:animatedead:856635090453135382> (if using [Cryptbloom boots](https://runescape.wiki/w/Cryptbloom_boots) <:cryptbloomboots:892819107236433930>)\n⬥ [Blood reaver](https://runescape.wiki/w/Blood_reaver_(familiar)) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• Does **not** require scrolls <:reaverscroll:1022562484378419284>, but using them is safer\n\u00a0\u00a0\u00a0\u00a0• If using scrolls <:reaverscroll:1022562484378419284>, set your auto fire rate to 20\n⬥ [Bonfire Boost](https://runescape.wiki/w/Bonfire_Boost_Active) <:firemaking:1011705727041163396> and [Ogre flask (thermal)](https://runescape.wiki/w/Ogre_flask_(thermal)) <:thermalflask:689530593796423724>\n⬥ [Enriched pontifex shadow ring](https://runescape.wiki/w/Enriched_pontifex_shadow_ring) <:pontifexshadowring:870326852361789501> passive is unlocked\n⬥ Pray [Desolation](https://runescape.wiki/w/Desolation) <:desolation:513190159018098713> and [Soul Split](https://runescape.wiki/w/Soul_Split) <:soulsplit:615613924506599497>"
       }
     ]
    }
@@ -53,22 +53,20 @@ Marks of War <:marksofwar:704701746869567551> are an essential resource needed t
     • This will force your character to auto-retaliate <:autoretaliate:1084799717726228530> faster, causing the rotation to perform as planned
 
 .
-### Preset
+## __Presets and Relics__
 .tag:preset
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/YA9gAhuoyG.png"
         },
-    "fields": [
-      {
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [High level setup](https://pvme.github.io/preset-maker/#/rxjvrHxhzLLG6TAgvIuS)",
-        "inline": true
-      }
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Ranged preset](https://pvme.github.io/preset-maker/#/rxjvrHxhzLLG6TAgvIuS) <:range:580168050121113623>"
+        }
     ]
   }
 }

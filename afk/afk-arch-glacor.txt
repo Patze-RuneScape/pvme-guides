@@ -18,7 +18,7 @@
 {
   "embed": {
   "title": "__Useful Items and Unlocks__",
-    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>",
+    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
     "color": 39423,
     "fields": [
       {
@@ -38,26 +38,23 @@
     • Not accounting for <:scriptureofbik:892342109791735848>
 
 .
-### Presets
+## __Presets and Relics__
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/VaePwWPmQp.png"
         },
-    "fields": [
-      {
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Preset](https://pvme.github.io/preset-maker/#/DSIM85iOz4MZwtwmfiV4)",
-        "inline": true
-      }
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Melee preset](https://pvme.github.io/preset-maker/#/DSIM85iOz4MZwtwmfiV4) <:melee:1096130867279171706>"
+        }
     ]
   }
 }
 .embed:json
-
 .
 ### Action Bars
 .img:https://img.pvme.io/images/IEs2NN760T.png

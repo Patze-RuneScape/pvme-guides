@@ -1,6 +1,5 @@
 # AFK Commander Zilyana (Hard Mode)
-.img:https://img.pvme.io/images/D0hidFz.jpg
-*Note: a **Table of Contents** can be found in the pins.*
+.img:https://img.pvme.io/images/wouDqU43a2.png
 
 .
 ## __Disclaimer__
@@ -23,7 +22,7 @@
 {
   "embed": {
   "title": "",
-    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>",
+    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
     "color": 39423,
     "fields": [
       {
@@ -46,26 +45,23 @@
     • You could choose to use <:rod:513190159462825984> to help deal with this
 
 .
-### Preset and Relics <:magic:689504724159823906>
+## __Presets and Relics__
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/vJu7Mr3naV.png"
         },
-    "fields": [
-      {
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Magic](https://pvme.github.io/preset-maker/#/eJSnGtmkYuL4HFZShWo7)",
-        "inline": true
-      }
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Magic preset](https://pvme.github.io/preset-maker/#/eJSnGtmkYuL4HFZShWo7) <:magic:689504724159823906>"
+        }
     ]
   }
 }
 .embed:json
-
 .
 ### Ability Bar <:magic:689504724159823906>
 .img:https://img.pvme.io/images/mhboo2Q.png

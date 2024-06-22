@@ -4,7 +4,7 @@
 
 In RuneScape PvM, the meta at the time of writing is about pushing out as much damage in as little time as possible. It is important to understand that good and efficient PvM, especially at the higher tiers, is about squeezing out as much damage as possible in between mechanics.
 
-This channel will go over general damage output lessons, ability prioritisations, crafting a rotation, a learning path, common mistakes, and tips and tricks.
+This channel will go over general damage output lessons, ability prioritisation, crafting a rotation, a learning path, common mistakes, and tips and tricks.
 
 .
 ## __Related Channels__
@@ -19,12 +19,12 @@ For further information and reading, you can refer to the following resources.
     "fields": [
       {
         "name": "__DPM-Advice Channels__",
-        "value": "⬥ <#1020729755064074291>\n⬥ <#1020729582086782996>\n⬥ <#1020729671127662643>",
+        "value": "⬥ <#1252196384321568893>\n⬥ <#1252196381851127870>\n⬥ <#1252196383159484519>",
         "inline": true
       },
       {
         "name": "__Misc. Info__",
-        "value": "⬥ <#1137543365521576127>\n⬥ <#1020550458231771157>\n⬥ <#1020550599248466050>",
+        "value": "⬥ <#1137543365521576127>\n⬥ <#1020550458231771157>\n⬥ <#1020550599248466050>\n⬥ <#1250862462442410216>",
         "inline": true
       },
       {
@@ -41,7 +41,7 @@ For further information and reading, you can refer to the following resources.
 .
 ## __Revolution Bars and General Background Knowledge__
 .tag:generalinfo
-For general PvM terminology, DPS tips, and revolution bars, check out their respective sections in <#1020730084807680073>.
+For general PvM terminology, DPS tips, and revolution bars, check out their respective sections in <#1252196386452144249>.
 
 .
 ## __Ability Information__
@@ -116,7 +116,7 @@ Here we'll cover some of the points to keep in mind to build a successful Melee 
 
 .
 ### Managing Cooldowns
-⬥ **High damaging abilities often come with long cooldowns** - when building a rotation, ability prioritisations *and* cooldowns should be on your mind.
+⬥ **High damaging abilities often come with long cooldowns** - when building a rotation, ability prioritisation *and* cooldowns should be on your mind.
 ⬥ If you use all of the high damaging abilities at once, their cooldowns will force you to use multiple weak abilities in succession while waiting to use them again.
 ⬥ To avoid this problem, you want to **use filler abilities to space out your high damage abilities**, to pace yourself and manage cooldowns.
 ⬥ The filler abilities that you can build your rotations around for melee can vary, based on camping a single weapon or juggling dual-wield and 2H:
@@ -164,7 +164,7 @@ Here we'll cover some of the points to keep in mind to build a successful Melee 
 ⬥ Prior to getting the above upgrades, **if you juggle 2H/DW, a basic rotation using <:cleave:535532878616985610> and <:deci:535532879325822986> in 'blocks' of 4**:
     • [ <:cleave:535532878616985610> → <:deci:535532879325822986> → Ability → Ability ] → Repeat
 .
-***Note**: This pattern becomes less important as you add the upgrades mentioned earlier, and you may prioritize more dual-wield abilities over switching to 2H for <:cleave:535532878616985610> specifically.*
+***Note**: This pattern becomes less important as you add the upgrades mentioned earlier, and you may prioritise more dual-wield abilities over switching to 2H for <:cleave:535532878616985610> specifically.*
 
 ⬥ Once your rotation gets going, you can start using abilities like thresholds or better to fill in the blanks.
 
@@ -520,7 +520,7 @@ This section will examine equipment that is useful for Melee <:melee:10961308672
     • Parasite stacks cannot be consistently built.
     • Need to use Hurricane <:cane:535532878969438210> and Destroy <:destroy:535532879330148352> within 20 seconds of each other, using <:lengmh:883134308146098227> as a switch.
 ⬥ **The special attack <:lengmh:883134308146098227> <:spec:537340400273195028> is recommended to be used pre-kill or in timegated phases**, where you can benefit from the increased hitcap, such as:
-    • Tarakat (Salve Amulet <:salveamulet:797899945730244648> damage boost).
+    • Taraket (Salve Amulet <:salveamulet:797899945730244648> damage boost).
     • Raksha (anima damage boost in phase 4).
     • Seiryu (at the last crystal).
     • Telos (under <:revenge:535541259645878302> and <:zerk:535532854004678657> in phase 5).
@@ -788,7 +788,7 @@ For a thorough explanation of how defensive autos (and auto attacks in general) 
 ### Common Applications
 *Note: You can check out `!defauto` and `!freedom` for a brief summary of mechanics.*
 .
-⬥ **Forcing 2H autos** using using `Fast/Fastest Ability → Defensive → Ability`.
+⬥ **Forcing 2H autos** using `Fast/Fastest Ability → Defensive → Ability`.
     • Replacing the with a *magic spell keybind* with the appropriate runes will attempt to cast the spell in place of the auto.
 ⬥ **Forcing off-hand + 2H autos** with Freedom <:freedom:535541258240786434>
     • The rotation is: Fast/Fastest Ability → Freedom → (1t delay) + 2H switch → Ability

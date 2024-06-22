@@ -1,18 +1,18 @@
 # Nex Duo
 .tag:intro
-.img:https://img.pvme.io/images/Y5LIGHuf6o.png
+.img:https://img.pvme.io/images/EHBFVhLaE2.png
 .
 ## __Introduction__
 *Note: a **Table of Contents** can be found in the pins.*
 
 Duo Nex is significantly more forgiving than solo, as the DPS check present on Blood phase is much less harsh.
 
-When Nex spawns for the first time in a custom instance it will be praying Deflect Magic <:DeflectMage:544195487926845462> for the majority of the kill, this is why Range only kills are the meta for fast consistent kills. After every kill you will teleport out of the instance and re-enter in order to force Nex to always be praying Deflect Mage <:DeflectMage:544195487926845462>
+When Nex spawns for the first time in a custom instance it will be praying Deflect Magic <:DeflectMage:544195487926845462> for the majority of the kill, this is why Ranged only kills are the meta for fast consistent kills. After every kill you will teleport out of the instance and re-enter in order to force Nex to always be praying Deflect Mage <:DeflectMage:544195487926845462>
 
 *Note: It is strongly advised to complete the Ritual of the Mahjarrat quest in order to get access to the Jas boost which gives a 5% damage boost in GWD1 (including Nex). This can be done via Fairy ring code D.K.Q.*
 
 .
-## __Presets__
+## __Presets and Relics__
 .tag:presets
 ### Banking Preset
 ⬥ The most important thing is to have a Frozen key + Ancient Ceremonial set for use with your boss portal.
@@ -31,7 +31,7 @@ When Nex spawns for the first time in a custom instance it will be praying Defle
 .img:https://img.pvme.io/images/wSLKTxY.png
 .
 ### Advanced Preset
-⬥ As a more experienced Nexer, your objective is to implement:
+⬥ As a more experienced player, your objective is to implement:
     • Bring DW and 2H weapons
     • Bring less food, replacing it with spices, bolt switches, and optional glove switches.
     • Ruby bolts <:RubyBakri:565726489413287956> will be used throughout the kill until ice phase, after which you should use your own judgement of when to use Hydrix <:HydrixBakri:550834403136503822> or Onyx <:OnyxBakri:565726489362956308>

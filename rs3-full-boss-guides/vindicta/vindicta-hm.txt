@@ -1,5 +1,5 @@
 # Vindicta and Gorvek Hard Mode
-.img:https://img.pvme.io/images/Q0FllWT7CP.png
+.img:https://img.pvme.io/images/sHIVTBZvZU.png
 *Note: a **Table of Contents** can be found in the pins.*
 
 .
@@ -18,7 +18,7 @@ Note: This guide has high requirements and is primarily aimed at those needing 1
 ⬥ Erethdor's Grimoire <:grim:568262896375824385> for better consistency.
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:presets
 {
   "embed": {
@@ -29,7 +29,7 @@ Note: This guide has high requirements and is primarily aimed at those needing 1
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [T95 Necromancy](https://pvme.io/preset-maker/#/9NjV0xsXof2PXlDegw1j)",
         "inline": true
       }
@@ -129,7 +129,7 @@ This method can achieve average kill times of 0:55 - 1:00.
 .
 ## __Normal mode Vindicta__
 .tag:nm
-A full guide on how to do normal mode Vindicta is available here: <#1166426934431981579>
+A full guide on how to do normal mode Vindicta is available here: <#1251112504495444042>
 .
 {
   "embed": {

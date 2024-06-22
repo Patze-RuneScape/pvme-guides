@@ -1,26 +1,24 @@
 # Magic Minion Tank
+.img:https://img.pvme.io/images/JChZfA1i4S.png
 
 .
-## __Preset and relics__
+## __Presets and Relics__
 .tag:presets
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/37kitpVapQ.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Magic Minion Tank](https://pvme.github.io/preset-maker/#/OGyCTYmP6nVHTX0R03tw)",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Magic preset](https://pvme.github.io/preset-maker/#/OGyCTYmP6nVHTX0R03tw) <:magic:689504724159823906>"
       }
     ]
   }
 }
 .embed:json
-
 .
 ## __Rotation__
 .

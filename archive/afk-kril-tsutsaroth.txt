@@ -1,5 +1,5 @@
 # AFK K'ril Tsutsaroth (Hard Mode)
-.img:https://img.pvme.io/images/iyeDRbloX4.png
+.img:https://img.pvme.io/images/K2b0x7m9Ai.png
 *Note: a **Table of Contents** can be found in the pins.*
 
 .
@@ -16,7 +16,7 @@
 {
   "embed": {
   "title": "__Mandatory Requirements__",
-    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>",
+    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
     "color": 39423,
     "fields": [
       {
@@ -37,7 +37,7 @@
 .
 {
   "embed": {
-    "title": "__Presets__",
+    "title": "__Preset Suggestions__",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/kxt3wTFNl4.png"
@@ -67,7 +67,7 @@
 {
   "embed": {
   "title": "__Mandatory Requirements__",
-    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>",
+    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
     "color": 39423,
     "fields": [
       {
@@ -93,7 +93,7 @@
 .
 {
   "embed": {
-    "title": "__Presets__",
+    "title": "__Preset Suggestions__",
     "image": {
             "url": "https://img.pvme.io/images/GNPDIIMppA.png"
         },

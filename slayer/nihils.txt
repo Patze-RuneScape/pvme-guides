@@ -75,7 +75,7 @@ Magic can utilise the terrain and Nihils' natural aggression to group them up, f
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Low effort Magic](https://pvme.github.io/preset-maker/#/0BUcOGXcnqpjDNocpL0Z)",
         "inline": true
       }
@@ -100,7 +100,7 @@ As players can place specific nihil variants in a dungeon, the best method of ki
 
 ⬥ Revo++ vs Legacy:
     • Legacy benefits: Tank armour not required.
-    • Revo++ benefitis: Significantly lower rune cost and higher kph (~120 more with a BIS setup).
+    • Revo++ benefits: Significantly lower rune cost and higher kph (~120 more with a BIS setup).
 
 ⬥ If using legacy with <:inquisitorstaff:694566917553520680>, use <:bloodburst:841419289714098246>, otherwise, use <:bloodbarrage:537338981747261446>. Cast <:exsanguinate:856635090745950258> if using revo++
 
@@ -109,7 +109,7 @@ As players can place specific nihil variants in a dungeon, the best method of ki
 .
 {
   "embed": {
-    "title": "__Preset Suggestions & Breakdowns__",
+    "title": "__Preset Suggestions__",
     "color": 39423,
     "fields":[
     	{

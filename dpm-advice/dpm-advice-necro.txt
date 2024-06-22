@@ -29,7 +29,7 @@ This channel will go over general damage output lessons, ability prioritisation,
 ⬥ In addition, here are more specific fundamental concepts which are key to high DPM Necromancy rotations:
 
 ### 1. Maximising Conjure <:conjurearmy:1166094935066423348> uptime during rotations and prioritising using Command Ghost <:commandghost:1159434409913634816>
-    a. <:commandghost:1159434409913634816> empowers the Vengeful Ghost <:conjureghost:1137809206423060632> to apply the the Haunted <:haunted:1143642262165790911> debuff to its target for 4.8 seconds per hit, causing the target to take up to **10% increased damage from all attacks** (capped at 20% of the commanding player's ability damage, applying to **all** styles).
+    a. <:commandghost:1159434409913634816> empowers the Vengeful Ghost <:conjureghost:1137809206423060632> to apply the Haunted <:haunted:1143642262165790911> debuff to its target for 4.8 seconds per hit, causing the target to take up to **10% increased damage from all attacks** (capped at 20% of the commanding player's ability damage, applying to **all** styles).
         ⬩ This also increases the healing capability of the ghost.
         ⬩ This synergises best with abilities which either hit under 200% ability damage per hit or hit multiple times, such as Bloat <:bloat:1159433682403201044>, Volley of Souls <:volleyofsouls:1159435029592686642> and Death Skulls <:deathskulls:1159434663903899728>
         ⬩ This indirectly increases damage dealt by Split Soul <:splitsoul:1137809168368148490> via increasing the size of each hit.
@@ -43,7 +43,7 @@ This channel will go over general damage output lessons, ability prioritisation,
 
 .
 ### 3. Ensuring that Living Death <:livingdeath:1159434908486357072>, <:splitsoul:1137809168368148490>, Invoke Death <:invokedeath:1137809121983336548> and Threads of Fate <:threadsoffate:1137809172335951933> are used in the most optimal situations.
-    a. <:livingdeath:1159434908486357072> synergizes with <:touchofdeath:1137809175980810380> due to it providing 6% additional adrenaline whilst <:livingdeath:1159434908486357072> is active, which is crucial for getting 3x <:deathskulls:1159434663903899728> in a <:livingdeath:1159434908486357072> which provides massive damage.
+    a. <:livingdeath:1159434908486357072> synergises with <:touchofdeath:1137809175980810380> due to it providing 6% additional adrenaline whilst <:livingdeath:1159434908486357072> is active, which is crucial for getting 3x <:deathskulls:1159434663903899728> in a <:livingdeath:1159434908486357072> which provides massive damage.
     b. <:splitsoul:1137809168368148490> synergises well with multi hit abilities, so try and use it alongside <:deathskulls:1159434663903899728> and <:volleyofsouls:1159435029592686642>
     c. <:invokedeath:1137809121983336548> is optimally used during downtime parts of a fight when the gcd spent won't actually slow down the kill.
         - During immune periods in a fight such as phase transitions at AoD/Kerapac
@@ -153,8 +153,8 @@ For specific rotations, please see the relevant boss guide.
 ⬥ The ability can be enhanced by wearing the igneous Kal-Mor <:igneouskalmor:1139200072438005851> cape; wearing it reduces the adrenaline cost of Death Skulls to 60% (from 100%) and causes it to bounce between two additional enemies (from four to six).
 ⬥ This results in <:deathskulls:1159434663903899728> **hitting the main target 4 times** with <:igneouskalmor:1139200072438005851> or 3 times without.
 
-<:deathskulls:1159434663903899728> __Targetting__
-⬥ When Death Skulls is selecting a new target to bounce to, it looks for all potential targets within 6 tiles of the previous target, and uses the folowing prioritisation:
+<:deathskulls:1159434663903899728> __Targeting__
+⬥ When Death Skulls is selecting a new target to bounce to, it looks for all potential targets within 6 tiles of the previous target, and uses the following prioritisation:
 	1. Monsters which are not immune to damage
     • If there are multiple monsters in range, the one with the highest life points will be selected
 	2. The player (no damage is dealt to the player)
@@ -258,7 +258,7 @@ Often useful on any boss with many adds or minions, such as:
 ⬥ Elite Dungeon monsters or TzekHaar Monsters;
 ⬥ Rise of the Six Bosses <:guthan:513226730002055169>;
 ⬥ Solak <:solak:580167371310891029>'s arms and legs;
-⬥ Telos <:telos:513212949033123840>'s golems <:blackgolem:854335415523868723><:greengolem:854335415842373643><:redgolem:854335416294703135>; and
+⬥ Telos <:telos:513212949033123840>'s golems <:blackgolem:854335415523868723> <:greengolem:854335415842373643> <:redgolem:854335416294703135>; and
 ⬥ Vorago <:vorago:572867742613635082>'s Scopulus <:scopulus:851518053430329384> or Vitalis <:vitalis:956889613962719293>.
 
 You may wish to utilise Threads of Fate <:threadsoffate:1137809172335951933> to use Soul Sap <:soulsap:1137809140476031057> to stack many Residual Souls <:residualsoul:1139453152169558046>, to easily stack souls for <:volleyofsouls:1159435029592686642>. This will synergise well with <:soulsplit:615613924506599497> for a large heal.
@@ -272,17 +272,17 @@ This allows access to strong non-Necromancy abilities.
 
 When using Necromancy, you are able to switch your Mainhand weapon while keeping the lantern on to keep conjures alive. This can be used to cast abilities such as:
 
-⬥ Greater Richochet with Caroming 4 <:gricocaroming:867678153966878740> casted with a one hand mainhand crossbow <:bbc:626714879218155521>.
+⬥ Greater Ricochet with Caroming 4 <:gricocaroming:867678153966878740> casted with a one hand mainhand crossbow <:bbc:626714879218155521>.
 (Typically with Hydrix Bakriminel Bolts (e) <:hydrixbakri:550834403136503822>) can be strong when used at bosses such as Nex <:nex:513213159071547395>, as its Mages have a soft hitcap (i.e. higher hits do reduced damage), so multiple smaller hits are more powerful. In addition, the adrenaline generation from <:hydrixbakri:550834403136503822> can be useful.
 
-⬥ Seren Godbow EOF Special <:sgb:626466665848242186><:eofspec:746403211908481184> casted with a one hand mainhand crossbow <:bbc:626714879218155521>.
+⬥ Seren Godbow EOF Special <:sgb:626466665848242186> <:eofspec:746403211908481184> casted with a one hand mainhand crossbow <:bbc:626714879218155521>.
 This can be used for large monsters (such as Raksha <:raksha:789813907706478603> or Telos <:telos:513212949033123840> in P5) to deal a large amount of damage where adrenaline allows, and other abilities may be on cooldown.
 
 .
 ## __5) Despawning and Resummoning Conjures Early__ <:enhancedexcalibur:513200949016264727>
 
 ⬥ This can be used on phase transitions (where you might not be able to do damage) to refresh Conjure timers.
-⬥ This would typically be done by equipping an off-hand weapon (such as the Enhanced Excalibur <:enhancedexcalibur:513200949016264727>) to despawn Conjures, then requipping a lantern <:soulboundlantern:1138809230573441064> then using Conjure Undead Army <:conjurearmy:1166094935066423348>.
+⬥ This would typically be done by equipping an off-hand weapon (such as the Enhanced Excalibur <:enhancedexcalibur:513200949016264727>) to despawn Conjures, then re-equipping a lantern <:soulboundlantern:1138809230573441064> then using Conjure Undead Army <:conjurearmy:1166094935066423348>.
 
 ⬥ However this does reset the Rage stacks of the <:conjureskeleton:1159434516658651147>.
 
@@ -333,7 +333,7 @@ See <#1136400483284697108> for a list of revolution bars.
 
 See <#1232420945268834316> for recommended gear upgrade progression from early game to t70.
 
-See <#1138200693396746311> for recommended gear upgrade progression from t70 to best in slot.
+See <#1250862466196570243> for recommended gear upgrade progression from t70 to best in slot.
 
 See <#1020550560551813131> for information on any other Necromancy Essence of Finality specs <:eofspec:746403211908481184>.
 .

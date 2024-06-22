@@ -1,16 +1,16 @@
 # Solo Nex - Melee
 .tag:intro
-.img:https://img.pvme.io/images/Y5LIGHuf6o.png
+.img:https://img.pvme.io/images/EHBFVhLaE2.png
 .
 ## __Introduction__
 *Note: a **Table of Contents** can be found in the pins.*
 
-When Nex spawns for the first time in a custom instance, she will be praying Deflect Magic <:DeflectMage:544195487926845462> for the majority of the kill. This is why Range-only kills are the meta for fast consistent kills. After every kill you will teleport out of the instance and re-enter in order to force Nex to always be praying Deflect Mage <:DeflectMage:544195487926845462>
+When Nex spawns for the first time in a custom instance, she will be praying Deflect Magic <:DeflectMage:544195487926845462> for the majority of the kill. This is why Ranged-only kills are the meta for fast consistent kills. After every kill you will teleport out of the instance and re-enter in order to force Nex to always be praying Deflect Mage <:DeflectMage:544195487926845462>
 
 *Note: It is strongly advised to complete the Ritual of the Mahjarrat quest in order to get access to the Stone of Jas boost which gives a 5% damage boost in GWD1 (including Nex). This can be done via Fairy ring code D.K.Q. or Master Quest Cape option 5*
 
 .
-## __Presets__
+## __Presets and Relics__
 .tag:presets
 ### Banking Preset
 ⬥ The most important thing is to have a Frozen key + Ancient Ceremonial set for use with your boss portal.

@@ -1,11 +1,11 @@
 # Helwyr Basic
-.img:https://img.pvme.io/images/epMlGdS2aB.png
+.img:https://img.pvme.io/images/F2iSmgl0OR.png
 *Note: a **Table of Contents** can be found in the pins.*
 
 .
 ## __Introduction__
 .tag:intro
-Helwyr, Seren's general residing in the Heart of Gielinor, requires 80 Magic <:magic:689504724159823906> (boostable) and 40 Seren killcount to fight. His drops include the t85 Wand of the Cywir elders <:cywirwand:643161591571021824> and Orb of the Cywir elders <:cywirorb:643161591210049556> which are strong midgame magic weapons when used with Greater concentrated blast <:gconc:869285393223254107>. Helwyr also drops the Crest of Seren <:crestseren:643161511937966122> which is used to make the t80 Anima Core of Seren set <:animahelmseren:643120081764745279>.
+Helwyr, Seren's general residing in the Heart of Gielinor, requires 80 Magic <:magic:689504724159823906> (boostable) and 40 Seren killcount to fight. His drops include the t85 Wand of the Cywir elders <:cywirwand:643161591571021824> and Orb of the Cywir elders <:cywirorb:643161591210049556> which are strong midgame magic weapons when used with Greater Concentrated Blast <:gconc:869285393223254107>. Helwyr also drops the Crest of Seren <:crestseren:643161511937966122> which is used to make the t80 Anima Core of Seren set <:animahelmseren:643120081764745279>.
 
 The fight itself is one phase. The aim of this guide is to familiarise you with how to handle mechanics in order to successfully get your first solo kills.
 
@@ -32,7 +32,7 @@ Throughout this fight, Helwyr's auto attacks hit the player with melee <:melee:1
       },
       {
         "name": "__Frenzy__",
-        "value": "⬥ Helwyr spins around dealing rapid melee hits, each applying a bleed stack on your buff bar that looks like this: <:dismember:535532879376023572>. The player should: \n\n\u00a0\u00a0\u00a0\u00a0• Use Devotion <:devo:513190158728953857> to mitigate all the melee damage from the Frenzy. \n\u00a0\u00a0\u00a0\u00a0• If Devotion is on cooldown, the player can use Debilitate <:debil:535541278264393729> or Reflect <:reflect:535541258786177064> to mitigate 50% of incoming damage.\n\u00a0\u00a0\u00a0\u00a0• When Helwyr finishes, use Freedom <:freedom:535541258240786434> to clear the bleed entirely. \n\n\u00a0\u00a0\u00a0\u00a0• [Click to view an example Frenzy](https://img.pvme.io/images/G5CPPoC.mp4)"
+        "value": "⬥ Helwyr spins around dealing rapid melee hits, each applying a bleed stack on your debuff bar that looks like this: <:dismember:535532879376023572>. The player should: \n\n\u00a0\u00a0\u00a0\u00a0• Use Devotion <:devo:513190158728953857> to mitigate all the melee damage from the Frenzy. \n\u00a0\u00a0\u00a0\u00a0• If Devotion is on cooldown, the player can use Debilitate <:debil:535541278264393729> or Reflect <:reflect:535541258786177064> to mitigate 50% of incoming damage.\n\u00a0\u00a0\u00a0\u00a0• When Helwyr finishes, use Freedom <:freedom:535541258240786434> to clear the bleed entirely. \n\n\u00a0\u00a0\u00a0\u00a0• [Click to view an example Frenzy](https://img.pvme.io/images/G5CPPoC.mp4)"
       },
       {
         "name": "__Minion Spawn__",
@@ -44,7 +44,7 @@ Throughout this fight, Helwyr's auto attacks hit the player with melee <:melee:1
 .embed:json
 
 .
-## __Presets__
+## __Presets and Relics__
 .tag:presets
 Below are some presets we believe will lead to a great learning experience. Magic assumes the user is on the normal spellbook.
 
@@ -54,19 +54,17 @@ Necromancy and Magic will be the easiest to learn with however Melee and Ranged 
   "embed": {
     "color": 39423,
     "image": {
-            "url": "https://img.pvme.io/images/izs5WDfcuF.png"
-        },
+            "url": "https://img.pvme.io/images/q0S7OpcPJb.png"
+      },
     "fields":[
         {
-            "name":"__Example presets__",
-            "value":"⬥ [Helwyr Necromancy](https://pvme.github.io/preset-maker/#/2wm3cgUxWrhp2M3xciJJ)\n⬥ [To view Helwyr Magic, click here](https://pvme.github.io/preset-maker/#/FpJAcluNA4k2VAS6rn2z)",
-        "inline": true
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Magic preset](https://pvme.github.io/preset-maker/#/FpJAcluNA4k2VAS6rn2z) <:magic:689504724159823906>\n⬥ [Necromancy preset](https://pvme.github.io/preset-maker/#/t1EyGrUw10j2zgaf54Db) <:necromancy:1148995625896120460>"
       }
     ]
   }
 }
 .embed:json
-
 .
 ## __Tips and Tricks__
 .tag:tips
@@ -79,6 +77,9 @@ Helwyr is also a great boss to practice some fundamentals when thinking about yo
 3) Stronger threshold abilities e.g. <:wm:535533809978966037> <:asphyx:535533833072672778> ,  <:assault:535532855191928842> <:destroy:535532879330148352> / <:cane:535532878969438210> , <:snap:535534127131394088> <:rapid:535541270521708566> / <:fingerofdeath:1159434801938432010>, <:volleyofsouls:1159435029592686642>
 4) Repeat steps 2 and 3 until your damage boosting ultimate ability runs out and build to 100% adrenaline again
 5) Repeat from step 1
+.
+Content Provided by: <@788941461952397332>
+Formatting Maintained by: <@788941461952397332>
 .
 {
   "embed": {

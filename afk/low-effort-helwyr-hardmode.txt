@@ -1,5 +1,5 @@
 # Low Effort Helwyr Hard Mode
-.img:https://img.pvme.io/images/epMlGdS2aB.png
+.img:https://img.pvme.io/images/F2iSmgl0OR.png
 *Note: a **Table of Contents** can be found in the pins.*
 
 .
@@ -24,7 +24,7 @@
 {
   "embed": {
     "title": "__Mandatory Requirements__",
-    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>\n ⬥ This method utilizes the full [First Necromancer's Equipment Set](https://runescape.wiki/w/First_Necromancer%27s_equipment), refer to the alternative method below if you do not own it",
+    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>\n ⬥ This method utilises the full [First Necromancer's Equipment Set](https://runescape.wiki/w/First_Necromancer%27s_equipment), refer to the alternative method below if you do not own it",
     "color": 39423,
     "fields": [
       {
@@ -46,21 +46,19 @@
 ### Notes
 ⬥ You can save your preset with the excalibur <:enhancedexcalibur:513200949016264727> equipped to automatically dismiss your conjures when banking.
 .
-### Preset and Relics
+## __Presets and Relics__
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/P3jDm350zv.png"
         },
-    "fields": [
-      {
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Link](https://pvme.github.io/preset-maker/#/cx1x3YPD4fAzMZy8qAHm)",
-        "inline": true
-      }
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Necromancy preset](https://pvme.github.io/preset-maker/#/cx1x3YPD4fAzMZy8qAHm) <:necromancy:1148995625896120460>"
+        }
     ]
   }
 }
@@ -73,7 +71,7 @@
 {
   "embed": {
     "title": "__Mandatory Requirements__",
-    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>\n ⬥ This method utilizes the T90 [Deathwarden Equipment Set](https://runescape.wiki/w/Deathwarden_robe_armour#Tier_90) and [Poison](https://runescape.wiki/w/Poison)<:poisonicon:944649693500154006>",
+    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>\n ⬥ This method utilises the T90 [Deathwarden Equipment Set](https://runescape.wiki/w/Deathwarden_robe_armour#Tier_90) and [Poison](https://runescape.wiki/w/Poison)<:poisonicon:944649693500154006>",
     "color": 39423,
     "fields": [
       {
@@ -100,22 +98,19 @@
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/PAWsA6YcmT.png"
         },
-    "fields": [
-      {
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Link](https://pvme.github.io/preset-maker/#/3PAH9i5rPpLCl6gBMoE8)",
-        "inline": true
-      }
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Necromancy preset](https://pvme.github.io/preset-maker/#/3PAH9i5rPpLCl6gBMoE8) <:necromancy:1148995625896120460>"
+        }
     ]
   }
 }
 .embed:json
-
 .
 ### Action Bar
 .tag:bar

@@ -1,6 +1,6 @@
 # Yakamaru
 .tag:intro
-.img:https://img.pvme.io/images/WngrNlp0Ix.png
+.img:https://img.pvme.io/images/NhlRG0hm04.png
 .
 ## __Introduction__
 *Note: a **Table of Contents** can be found in the pins.*
@@ -13,32 +13,13 @@ This guide aims to cover the basic mechanics of Yakamaru, and cover some of stra
 ⬥ See __**Fight Overview**__ for a brief description of the fight, and __**Fight Phases**__ for more in-depth information.
 
 .
-## __Drops__
+## __Drop Rates__
 .tag:drops
-⬥ Teci <:teci:641332337451204608>
-    • Always dropped.
-⬥ **Yakamaru's Helmet** <:yakahelm2:725230791260504144>
-    • 1/300 (60 threshold).
-⬥ **Mazcab Ability Codex** <:mazcabcodex:643162636447645714>
-    • See below.
-⬥ **Achto Primeval <:achtoprimevaltop:641344704939819028> / Achto Teralith <:achtoteralithbody:583428622136901633> / Achto Tempest <:achtotempestbody:583428622094958612>**
-    • See below.
 .
-{
-  "embed": {
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Raids Drop Rates__",
-        "value": "To see how droprates for Raids uniques are calculated, [click here](https://www.runescape.com/drop-rates).\n(Scroll down to the **Liberation of Mazcab** section)."
-      }
-    ]
-  }
-}
-.embed:json
+**[Click here](https://www.runescape.com/drop-rates)** to see how drop rates for Raids uniques are calculated (scroll down to *Liberation of Mazcab*).
 
 .
-## __Preset and relics__
+## __Presets and Relics__
 .tag:presets
 Given that Yakamaru is a fairly advanced boss and that its a *group boss*, it is reasonable (and ideal) to have a sufficient level of gear before attempting the boss. **This helps both make the fight easier and make it easier for you to get into teams.**
 
@@ -59,7 +40,7 @@ A guideline set of recommendations might this include:
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Magic | Basic DPS / Free](https://pvme.github.io/preset-maker/#/CO8g0F58FcETCcS3Ps2J)\n⬥ [Melee | Basic DPS / Free](https://pvme.github.io/preset-maker/#/vmG4Jcmsb6mGLVBDM5ge)\n⬥ [Ranged | Basic DPS / Free](https://pvme.github.io/preset-maker/#/i5WO2DTuiWD1z0BNGMK9)\n⬥ [Magic | Tank](https://pvme.github.io/preset-maker/#/EGgG5lk2mvbNwlP6LcLX)",
         "inline": true
       }
@@ -79,7 +60,7 @@ A guideline set of recommendations might this include:
 
 .
 ### Tank Preset Notes
-⬥ **This preset is built around survivability** - the most important thing as a tank is to stay alive - a Reaver <:reaverpouch:839903693837959228> <:reaverscroll:1022562484378419284> autofiring its scrolls with a short delay can be a signfiicant source of sustain.
+⬥ **This preset is built around survivability** - the most important thing as a tank is to stay alive - a Reaver <:reaverpouch:839903693837959228> <:reaverscroll:1022562484378419284> autofiring its scrolls with a short delay can be a significant source of sustain.
     • Remember to use Prism of Restoration <:prismofrestoration:938475261366784070> to prevent it from dying.
     • If this is not sufficient, or you have difficulties using it, a BoB <:Mammoth:513195712146702337> can be an alternative.
 
@@ -102,7 +83,7 @@ A guideline set of recommendations might this include:
     • **Mirage phase** - After killing it once in each pool, Yakamaru spawns in all pools simultaneously and must be killed in all the pools and 'closed' permanently, to finish the fight.
 
 ⬥ During the pools phase, there will be a special mechanic for each pool - this is covered in the __**Pool Mechanics**__ section.
-⬥ Yakamaru attacks with auto attacks (Range if out of MD, Magic if in MD) and special attacks.
+⬥ Yakamaru attacks with auto attacks (Ranged if out of MD, Magic if in MD) and special attacks.
     • The default attack cycle uses a number of auto attacks followed by a special attack, and then repeats.
     • The number of autos varies from pool to pool.
     • *The attack cycle starts at a random point in the cycle* (i.e. Yakamaru could begin with a spec, and then continue from there.)
@@ -174,7 +155,7 @@ As it is a group fight, a number of players are assigned roles to make the encou
         ⬩ To aggro both pools: tag Sand pool, then use <:voke:535541259465392143> on Stun pool.
 ⬥ **Notable info**
     • *Sand pool is almost always the last to die during Mirage phase* - on slower teams, this can be a tank test. Use defensives if you have to.
-    • Jellies may spawn while tanking the pool - dodge them and let the Jelly Wranger handle them, or freeze/stun them and move away.
+    • Jellies may spawn while tanking the pool - dodge them and let the Jelly Wrangler handle them, or freeze/stun them and move away.
 
 .
 ### CPR
@@ -268,12 +249,12 @@ As it is a group fight, a number of players are assigned roles to make the encou
 ⬥ **Yakamaru spawns Jellyfish of different colours during the fight**.
 ⬥ There are 6 different types of Jellyfish:
     • **Normal/Orange**: deals melee damage and spawns as part of Yakamaru's 'Jellyfish Spawn' special attack (see __**Special Attacks**__).
-    • **Durable**: heals other neaby Jellies and Yakamaru while alive.
+    • **Durable**: heals other nearby Jellies and Yakamaru while alive.
     • **Magical**: deals Magic damage.
     • **Meleefish**: deals Melee damage.
-    • **Piercing**: deals Range damage.
+    • **Piercing**: deals Ranged damage.
     • **Reflecting**: causes all other Jellies to take less damage, and reflect damage taken onto players - these will die on their own.
-⬥ Except before Sand Pool and Mirage, first phase Yakamark in the center pool, *then* kill the colorful jellies.
+⬥ Except before Sand Pool and Mirage, first phase Yakamaru in the center pool, *then* kill the colorful jellies.
 
 .
 ## __Special Attacks__
@@ -285,7 +266,7 @@ Pool-specific special attacks are covered in the __**Pool Mechanics**__ section.
 ### Jellyfish Spawn
 .img:https://img.pvme.io/images/qdrWMC0.gif
 ⬥ Yakamaru spawns one orange jellyfish and 5 'cracks' on the floor.
-⬥ **The jellyfish should be killed ASAP** as it deals high AoE melee damag.
+⬥ **The jellyfish should be killed ASAP** as it deals high AoE melee damage.
 ⬥ Standing on the cracks will shortly deal 10000 damage to the jellyfish, but also deal 1500-2000 Magic damage to the player.
     • Defensives <:res:535541258844635148> <:disrupt:535614336207552523> will mitigate this.
 ⬥ Stuns/binds (like <:icebarrage:537340400185245701>) are useful here.
@@ -337,7 +318,7 @@ Here we go over what each pool at Yakamaru does and how to deal with them. Then 
 ⬥ Note that sharks will follow the player while being thrown out - **move away from the sharks __after__ they have landed**.
 ⬥ A Jellyfish will spawn
 
-⬥ This pool is relatively straightforward - just avoid the shark spawns and it'll go somothly.
+⬥ This pool is relatively straightforward - just avoid the shark spawns and it'll go smoothly.
 
 .
 ### Sand Pool **(north-west)
@@ -424,7 +405,7 @@ In this section we go over how the fight flows, general recommendations/rotation
 ⬥ **Begin by reducing Yakamaru's health in the middle pool to 50k HP**.
     • All 4 pools will again simultaneously spawn with 150k HP each.
     • They must all be killed and the *pools must be closed by spam clicking the pools after clearing them*.
-    • **At this point, the Jelly Wrangler begins tagging and provking jellies off the rest of the team.**
+    • **At this point, the Jelly Wrangler begins tagging and provoking jellies off the rest of the team.**
 
 ⬥ The following image shows where to stand when mirage starts:
 .img:https://img.pvme.io/images/KWDTNoa.png
@@ -498,14 +479,8 @@ In this section we go over how the fight flows, general recommendations/rotation
     "color": 39423,
     "fields": [
       {
-        "name": "__Introduction__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Drops]($linkmsg_drops$)\n⬥ ",
-        "inline": true
-      },
-      {
-        "name": "__Presets__",
-        "value": "⬥ [Presets]($linkmsg_presets$)",
-        "inline": true
+        "name": "__Introduction & Presets__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Presets]($linkmsg_presets$)"
       },
       {
         "name": "__Basic Information__",

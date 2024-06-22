@@ -1,5 +1,5 @@
 # AFK Helwyr
-.img:https://img.pvme.io/images/epMlGdS2aB.png
+.img:https://img.pvme.io/images/F2iSmgl0OR.png
 *Note: a **Table of Contents** can be found in the pins.*
 
 .
@@ -13,6 +13,58 @@
 .tag:positioning
 .img:https://img.pvme.io/images/RobEqatkPg.png 
 ⬥ Stand 1 tile north-east of the mushroom directly south of the center mushroom.
+.
+## __Melee AFK Method (60+ kph) <:melee:1096130867279171706>__
+.tag:afkmelee
+### Overview
+.
+{
+  "embed": {
+    "title": "__Mandatory AFK Requirements__",
+    "description":"The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
+        "color": 39423,
+        "fields": [
+      {
+        "name": "__Items__",
+        "value": "⬥ [Abyssal Scourge](<https://runescape.wiki/w/Abyssal_Scourge>) & [Dark shard of leng](<https://runescape.wiki/w/Dark_Sliver_of_Leng>) <:abyssalscourge:947871842469834832><:lengoh:883134308070604870>\n⬥ [Vamp scrim](https://runescape.wiki/w/Scrimshaw_of_Vampyrism) <:vampscrim:513201294262009874> or [Superior vamp scrim](https://runescape.wiki/w/Superior_Scrimshaw_of_Vampyrism) <:vampscrim:513201294262009874>\n⬥ [Essence of Finality](<https://runescape.wiki/w/Eof>) <:eof:787526151978614824>\n⬥ 4 pieces of [Vestments](https://runescape.wiki/w/Vestments_of_havoc_armour) <:vestmentsofhavochood:994189297659940904>\n⬥ [Cinderbane Gloves](https://runescape.wiki/w/Cinderbane_gloves) <:Cinderbanes:513190158355660812>"
+        },
+     {
+        "name": "__Other__",
+        "value": "⬥ [Weapon poison+++](https://runescape.wiki/w/Weapon_poison%2B%2B%2B_flask#(6)) <:weppoison:689525476158472288>\n⬥ [Kwuarm Incense Sticks](https://runescape.wiki/w/Kwuarm_incense_sticks) <:kwuarmsticks:565726489341984779>\n⬥ [Greater Flurry](https://runescape.wiki/w/Greater_Flurry) <:gflurry:535532879283879977>\n⬥ [Chaos Roar](https://runescape.wiki/w/Chaos_Roar) <:chaosroar:994644356671737966>\n⬥ [Blood Reaver](<https://runescape.wiki/w/Blood_reaver_(familiar)>) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• Reaver scrolls are not required, but can help offset the possibility of death\n\u00a0\u00a0\u00a0\u00a0• Set autofire to 10 if opting to use scrolls\n⬥ Aura, in order of effectiveness <:vampaura:643505653079343144> > <:darkmagic:643505652571963417> > <:mahj:643148943856762890>"
+      }
+    ]
+  }
+}
+.embed:json
+
+.
+## __Presets and Relics__ <:melee:1096130867279171706>
+.
+{
+  "embed": {
+    "color": 39423,
+    "image": {
+            "url": "https://img.pvme.io/images/K5kGdFPJl7.png"
+        },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Melee preset](https://pvme.github.io/preset-maker/#/0zm6K7NL5wh38OM8R2ns) <:melee:1096130867279171706>"
+        }
+    ]
+  }
+}
+.embed:json
+.
+### Ability Bar <:melee:1096130867279171706>
+.img:https://img.pvme.io/images/FMMD84sIYj.png
+*Note: if <:igneouskalket:902209626404192316> is not owned, kills are possible but significantly less consistent. You will need to remove <:overpower:535532879334080517> to make it work.*
+
+.
+### Example Kills <:melee:1096130867279171706>
+.
+⬥ [5 minute Example](<https://youtu.be/Eq3INAW7u68?>)
+.
 
 .
 ## __Magic AFK Method (48+ kph) <:magic:689504724159823906>__
@@ -22,16 +74,16 @@
 {
   "embed": {
     "title": "__Mandatory AFK Requirements__",
-    "description":"The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>",
+    "description":"The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
         "color": 39423,
         "fields": [
       {
         "name": "__Items__",
-        "value": "⬥ T88+ [Elite Seasinger](<https://runescape.wiki/w/Elite_seasinger_kiba>) dual wield <:eliteseasingerwand:581180345978716170> <:eliteseasingerorb:581180345345638423>\n⬥ [Wen Book](https://runescape.wiki/w/Scripture_of_Wen)<:scriptureofwen:883134307902816297> or [Ful Book](https://runescape.wiki/w/Scripture_of_Ful)<:scriptureofful:902209626412560395>\n⬥ [Essence of Finality](<https://runescape.wiki/w/Eof>) <:eof:787526151978614824>\n⬥ At least 3 pieces of [Cryptbloom armour](https://runescape.wiki/w/Cryptbloom_armour) <:cryptbloomhelm:892819107123195956>\n⬥ [Cinderbane Gloves](https://runescape.wiki/w/Cinderbane_gloves) <:Cinderbanes:513190158355660812>"
+        "value": "⬥ [Wen Book](https://runescape.wiki/w/Scripture_of_Wen) <:scriptureofwen:883134307902816297> or [Ful Book](https://runescape.wiki/w/Scripture_of_Ful) <:scriptureofful:902209626412560395>\n⬥ [Essence of Finality](<https://runescape.wiki/w/Eof>) <:eof:787526151978614824>\n⬥ At least 3 pieces of [Cryptbloom armour](https://runescape.wiki/w/Cryptbloom_armour) <:cryptbloomhelm:892819107123195956>\n⬥ [Cinderbane Gloves](https://runescape.wiki/w/Cinderbane_gloves) <:Cinderbanes:513190158355660812>"
         },
      {
         "name": "__Other__",
-        "value": "⬥ [Animate Dead](https://runescape.wiki/w/Animate_Dead) <:animatedead:856635090453135382>\n⬥ [Weapon poison +++](https://runescape.wiki/w/Weapon_poison%2B%2B%2B_flask#(6)) <:weppoison:689525476158472288>\n⬥ [Kwuarm Incense Sticks](https://runescape.wiki/w/Kwuarm_incense_sticks)<:kwuarmsticks:565726489341984779>\n⬥ [Greater Concentrated Blast](https://runescape.wiki/w/Greater_Concentrated_Blast) <:gconc:869285393223254107>\n⬥ [Blood Reaver](<https://runescape.wiki/w/Blood_reaver_(familiar)>) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• Reaver scrolls are not required, but can help offset the possibility of death\n\u00a0\u00a0\u00a0\u00a0• Set autofire to 10 if opting to use scrolls\n⬥ [Prism of Restoration](<https://runescape.wiki/w/Prism_of_Restoration>) <:prismofrestoration:938475261366784070>\n\u00a0\u00a0\u00a0\u00a0• Only required if using reaver scrolls\n⬥ Aura, in order of effectiveness <:vampaura:643505653079343144> <:darkmagic:643505652571963417> <:mahj:643148943856762890>"
+        "value": "⬥ [Animate Dead](https://runescape.wiki/w/Animate_Dead) <:animatedead:856635090453135382>\n⬥ [Weapon poison+++](https://runescape.wiki/w/Weapon_poison%2B%2B%2B_flask#(6)) <:weppoison:689525476158472288>\n⬥ [Kwuarm Incense Sticks](https://runescape.wiki/w/Kwuarm_incense_sticks) <:kwuarmsticks:565726489341984779>\n⬥ [Greater Concentrated Blast](https://runescape.wiki/w/Greater_Concentrated_Blast) <:gconc:869285393223254107>\n⬥ [Legendary Pet](<https://runescape.wiki/w/Legendary_pet>) or [Blood Reaver](<https://runescape.wiki/w/Blood_reaver_(familiar)>) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• If using Reaver, scrolls are not required\n⬥ Aura in order of effectiveness: <:vampaura:643505653079343144> > <:darkmagic:643505652571963417> > <:mahj:643148943856762890>"
       }
     ]
   }
@@ -39,26 +91,23 @@
 .embed:json
 
 .
-### Presets and Relics <:magic:689504724159823906>
+## __Presets and Relics__ <:magic:689504724159823906>
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/YzfgqkUdVq.png"
         },
-    "fields": [
-      {
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Standard Setup](https://pvme.github.io/preset-maker/#/wtL4XmM2Aupi2k6lwxyT)",
-        "inline": true
-      }
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Magic preset](https://pvme.github.io/preset-maker/#/wtL4XmM2Aupi2k6lwxyT) <:magic:689504724159823906>"
+        }
     ]
   }
 }
 .embed:json
-
 .
 ### Ability Bar <:magic:689504724159823906>
 .img:https://img.pvme.io/images/dEYojShrPn.png
@@ -71,62 +120,56 @@
 .
 
 .
-## __Ranged AFK Method (56+ kph) <:range:580168050121113623>__
+## __Ranged AFK Method (55+ kph) <:range:580168050121113623>__
 .tag:afkrange
 ### Overview
 .
 {
   "embed": {
     "title": "__Mandatory AFK Requirements__",
-    "description":"The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>",
+    "description":"The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
         "color": 39423,
         "fields": [
       {
         "name": "__Items__",
-        "value": "⬥ [Igneous Kal-Xil](<https://runescape.wiki/w/Igneous_Kal-Xil>) <:igneouskalxil:902209626404171786>\n⬥ [Portent of restoration X](<https://runescape.wiki/w/Portent_of_restoration_x>) <:portentofrestorationx:974503666352525312>\n\u00a0\u00a0\u00a0\u00a0• If you run out of these due to bad rng, bank for more for safety.\n⬥ [Wen Book](https://runescape.wiki/w/Scripture_of_Wen) <:wengodbook:883134307902816297>\n⬥ [Essence of Finality](<https://runescape.wiki/w/Eof>) <:eof:787526151978614824>\n⬥ [Cinderbane Gloves](https://runescape.wiki/w/Cinderbane_gloves) <:Cinderbanes:513190158355660812>\n⬥ At least a [Noxious longbow](<https://runescape.wiki/w/Nox_bow>) <:noxbow:513190159425208342>\n⬥ [Splintering arrows](<https://runescape.wiki/w/Splintering_arrow>) <:splinteringarrows:900758234246299649>"
+        "value": "⬥ [Igneous Kal-Xil](<https://runescape.wiki/w/Igneous_Kal-Xil>) <:igneouskalxil:902209626404171786>\n⬥ [Scripture of Wen](https://runescape.wiki/w/Scripture_of_Wen) <:wengodbook:883134307902816297>\n⬥ [Essence of Finality](<https://runescape.wiki/w/Eof>) <:eof:787526151978614824>\n⬥ [Cinderbane Gloves](https://runescape.wiki/w/Cinderbane_gloves) <:Cinderbanes:513190158355660812>\n⬥ [Wen arrows](<https://runescape.wiki/w/Wen_arrow>) <:wenarrow:971025697046925362>"
         },
      {
         "name": "__Other__",
-        "value": "⬥ [Weapon poison +++](https://runescape.wiki/w/Weapon_poison%2B%2B%2B_flask#(6)) <:weppoison:689525476158472288>\n⬥ [Kwuarm Incense Sticks](https://runescape.wiki/w/Kwuarm_incense_sticks)<:kwuarmsticks:565726489341984779>\n⬥ [Greater ricochet](<https://runescape.wiki/w/Grico>) <:grico:787904334812807238>\n⬥ [Blood Reaver](<https://runescape.wiki/w/Blood_reaver_(familiar)>) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• Reaver scrolls are not required, but can help offset the possibility of death\n\u00a0\u00a0\u00a0\u00a0• Set autofire to 15 if opting to use scrolls\n⬥ [Prism of Restoration](<https://runescape.wiki/w/Prism_of_Restoration>) <:prismofrestoration:938475261366784070>\n\u00a0\u00a0\u00a0\u00a0• Only required if using reaver scrolls\n⬥ [Vampyrism aura](https://runescape.wiki/w/Vampyrism_aura) <:vampaura:643505653079343144>"
+        "value": "⬥ [Weapon poison+++](https://runescape.wiki/w/Weapon_poison%2B%2B%2B_flask#(6)) <:weppoison:689525476158472288>\n⬥ [Kwuarm Incense Sticks](https://runescape.wiki/w/Kwuarm_incense_sticks) <:kwuarmsticks:565726489341984779>\n⬥ [Greater ricochet](<https://runescape.wiki/w/Grico>) <:grico:787904334812807238>\n⬥ [Legendary Pet](<https://runescape.wiki/w/Legendary_pet>) or [Blood Reaver](<https://runescape.wiki/w/Blood_reaver_(familiar)>) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• If using Reaver, scrolls are not required\n⬥ [Vampyrism aura](https://runescape.wiki/w/Vampyrism_aura) <:vampaura:643505653079343144>"
       }
     ]
   }
 }
 .embed:json
-.
-⬥ For fastest kill speeds, a Bow of the Last Guardian <:bolg:994189289623662702> should be used. A Seren Godbow <:sgb:626466665848242186> or Noxious Bow <:noxbow:513190159425208342> are slower substitutes.
-⬥ Can add tank perks to armour for increased consistency ([Crystal shield 4](<https://runescape.wiki/w/Crystal_Shield_(perk)#Suggested_gizmos>) <:crystalshield4:921410343606034443> and [Absorbative 4](<https://runescape.wiki/w/Absorbative#Suggested_gizmos>) <:absorbative4:890542428556230666>)
 
 .
-### Presets and Relics <:range:580168050121113623>
+## __Presets and Relics__ <:range:580168050121113623>
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
-            "url": "https://img.pvme.io/images/7ZZtwRHeF7.png"
+            "url": "https://img.pvme.io/images/0n2mBytQ92.png"
         },
-    "fields": [
-      {
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Standard Setup](https://pvme.github.io/preset-maker/#/H4reNkLS7MNjFy4bSWuM)",
-        "inline": true
-      }
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Ranged preset](https://pvme.github.io/preset-maker/#/0HV6g93tEncLEYSSeCIl) <:ranged:580168050121113623>"
+        }
     ]
   }
 }
 .embed:json
-
 .
 ### Ability Bar <:range:580168050121113623>
-.img:https://img.pvme.io/images/p7gsJuSsG4.png
-*Note: to reduce the usage of portents, whilst also increasing kill times, move debilitate towards the start of the bar (to the left)*
+.img:https://img.pvme.io/images/T1vbp9Ei9A.png
 
 .
 ### Example Kills <:range:580168050121113623>
 .
-⬥ [Range Example](<https://youtu.be/BabMqD1bYDQ>)
+⬥ [Ranged Example](<https://youtu.be/2_CfKbHT5K4>)
+.
 
 .
 ## __Necromancy AFK Method (53+ kph) <:necromancy:1148995625896120460>__
@@ -137,7 +180,7 @@
 {
   "embed": {
   "title": "__Mandatory AFK Requirements__",
-    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1130180182544744551>",
+    "description":"⬥ The following **ARE REQUIRED** for this method to work:\n\u00a0\u00a0\u00a0\u00a0• **Cutting corners will result in failure**\n\u00a0\u00a0\u00a0\u00a0• A more extensive list can be found in <#1251377307315077151>",
     "color": 39423,
     "fields": [
                   {
@@ -149,7 +192,7 @@
       },
       {
         "name": "__Other__",
-        "value": "⬥ [Lesser Bone Shield](https://runescape.wiki/w/Lesser_Bone_Shield) <:lesserboneshield:1137809125590450276>\n⬥ [Weapon poison +++](https://runescape.wiki/w/Weapon_poison%2B%2B%2B_flask#(6)) <:weppoison:689525476158472288>\n⬥ [Kwuarm Incense Sticks](https://runescape.wiki/w/Kwuarm_incense_sticks)<:kwuarmsticks:565726489341984779>\n⬥ [Blood Reaver](<https://runescape.wiki/w/Blood_reaver_(familiar)>) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• Reaver scrolls are not required, but can help offset the possibility of death\n\u00a0\u00a0\u00a0\u00a0• Set autofire to 10 if opting to use scrolls\n⬥ [Prism of Restoration](<https://runescape.wiki/w/Prism_of_Restoration>) <:prismofrestoration:938475261366784070>\n\u00a0\u00a0\u00a0\u00a0• Only required if using reaver scrolls\n⬥ Pray [Soul Split](https://runescape.wiki/w/Soul_Split) <:soulsplit:615613924506599497> + [Sorrow](https://runescape.wiki/w/Sorrow) <:sorrow:1137941003895046284>\n⬥ Activate <:ancientshard:656426717505650708> on cooldown"
+        "value": "⬥ [Lesser Bone Shield](https://runescape.wiki/w/Lesser_Bone_Shield) <:lesserboneshield:1137809125590450276>\n⬥ [Weapon poison+++](https://runescape.wiki/w/Weapon_poison%2B%2B%2B_flask#(6)) <:weppoison:689525476158472288>\n⬥ [Kwuarm Incense Sticks](https://runescape.wiki/w/Kwuarm_incense_sticks)<:kwuarmsticks:565726489341984779>\n⬥ [Blood Reaver](<https://runescape.wiki/w/Blood_reaver_(familiar)>) <:reaverpouch:839903693837959228>\n\u00a0\u00a0\u00a0\u00a0• Reaver scrolls are not required, but can help offset the possibility of death\n\u00a0\u00a0\u00a0\u00a0• Set autofire to 10 if opting to use scrolls\n⬥ [Prism of Restoration](<https://runescape.wiki/w/Prism_of_Restoration>) <:prismofrestoration:938475261366784070>\n\u00a0\u00a0\u00a0\u00a0• Only required if using reaver scrolls\n⬥ Pray [Soul Split](https://runescape.wiki/w/Soul_Split) <:soulsplit:615613924506599497> + [Sorrow](https://runescape.wiki/w/Sorrow) <:sorrow:1137941003895046284>\n⬥ Activate <:ancientshard:656426717505650708> on cooldown"
       }
     ]
    }
@@ -158,25 +201,23 @@
 .
 ⬥ With back-to-back mushroom clouds there is a risk of death without reaver scrolls.
 ⬥ Lower tier Deathwarden can be used to generate more prayer through penance powder.
-⬥ Deathwarden allows for surviving back-to-back mushrooms without using scrolls, but may still require additional maintainence if mushrooms continue to spawn throughout consecutive kills.
+⬥ Deathwarden allows for surviving back-to-back mushrooms without using scrolls, but may still require additional maintenance if mushrooms continue to spawn throughout consecutive kills.
 ⬥ Use [Crystal Shield](<https://runescape.wiki/w/Crystal_Shield_(perk)>) <:crystalshield4:921410343606034443> 4 and [Absorbative](<https://runescape.wiki/w/Absorbative>) <:absorbative4:890542428556230666> 4 on the legs for best results.
 
 .
-### Preset and Relics <:necromancy:1148995625896120460>
+## __Presets and Relics__ <:necromancy:1148995625896120460>
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
-    				"url": "https://img.pvme.io/images/3Sg1XIAgDz.png"
-    		},
-    "fields": [
-      {
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Necromancy Setup](https://pvme.io/preset-maker/#/9uCptIafDXJdqg7HwGWV)",
-        "inline": true
-      }
+            "url": "https://img.pvme.io/images/3Sg1XIAgDz.png"
+        },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Necromancy preset](https://pvme.io/preset-maker/#/9uCptIafDXJdqg7HwGWV) <:necromancy:1148995625896120460>"
+        }
     ]
   }
 }
@@ -196,7 +237,7 @@
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Disclaimer]($linkmsg_disclaimer$)\n⬥ [Positioning]($linkmsg_positioning$)\n⬥ [Magic AFK]($linkmsg_afkmagic$)\n⬥ [Ranged AFK]($linkmsg_afkrange$)\n⬥ [Necromancy AFK]($linkmsg_afknecro$)",
+    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Disclaimer]($linkmsg_disclaimer$)\n⬥ [Positioning]($linkmsg_positioning$)\n⬥ [Melee AFK]($linkmsg_afkmelee$) <:melee:1096130867279171706> \n⬥ [Magic AFK]($linkmsg_afkmagic$) <:magic:689504724159823906> \n⬥ [Ranged AFK]($linkmsg_afkrange$)  <:range:580168050121113623> \n⬥ [Necromancy AFK]($linkmsg_afknecro$) <:necromancy:1148995625896120460> ",
     "color": 39423
   }
 }

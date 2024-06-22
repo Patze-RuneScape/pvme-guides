@@ -1,6 +1,6 @@
 # Kerapac, the Bound - Solo Necromancy
 .
-.img:https://img.pvme.io/images/LuuRiDd.jpg
+.img:https://img.pvme.io/images/1fZdXd5U3v.png
 .
 ## __Introduction__
 .tag:intro
@@ -11,7 +11,7 @@ This guide assumes you are already familiar with the basic mechanics of Kerapac 
 It is recommended to have a Nodon dragonkin slayer task <:slayer:797896049548066857> as the genocidal boost does work with Necromancy. You may also use the Premier Artefact <:premierartefact:918517285176623104> to have a 10% chance to not decrease the slayer task count with each kill.
 .
 .
-## __Preset and relics__
+## __Presets and Relics__
 .tag:preset
 {
   "embed": {
@@ -22,7 +22,7 @@ It is recommended to have a Nodon dragonkin slayer task <:slayer:797896049548066
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Necromancy](https://pvme.github.io/preset-maker/#/yshpDOAnhrefGOuCI6o9)",
         "inline": true
       }
@@ -33,7 +33,7 @@ It is recommended to have a Nodon dragonkin slayer task <:slayer:797896049548066
 
 .
 ### Additional Info
-⬥ The below rotations require prebuilt 8 <:necrosis:1139452791878856805> and 5 <:residualsoul:1139453152169558046> stacks in order to work. See pre-fight section.
+⬥ The below rotations require prebuilding 8 <:necrosis:1139452791878856805> and 5 <:residualsoul:1139453152169558046> stacks in order to work. See pre-fight section.
 ⬥ <:firstnecrohandwrap:1142416978112417812> should only be equipped when summoning conjures, otherwise camp <:cinderbanes:513190158355660812>
 ⬥ This rotation assumes use of 5%+ Genocidal <:genocidal:689503091539705870> on a Nodon Dragonkin slayer task. If not using <:genocidal:689503091539705870>, further abilities may be required in each phase.
 

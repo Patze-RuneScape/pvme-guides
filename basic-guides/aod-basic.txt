@@ -1,38 +1,35 @@
 # Nex: Angel of Death (AoD), Basic Guide <:aod:580167371365548042>
-.img:https://img.pvme.io/images/zX4OYA6.jpg
+.img:https://img.pvme.io/images/JChZfA1i4S.png
 .
 ## __Introduction__
 .tag:intro
 The aim of this guide is provide a basic overview of how to get consistent kills at Nex: Angel of Death with a low-tier geared team. While writing this guide, we aimed to keep each preset within the confines of tier 1 of <#1020045708746833930>. However due to the endgame nature of the boss, this has not been totally possible. Keeping this in mind, we have instead aimed to provide presets that are as low-tiered as possible without consistent strategies becoming unviable.
 
 ### Disclaimer
-This guide is made with the idea of getting started at AoD, and does not cover meta strategies. For those please refer to the main guides in <#1020025399079600178>. For a detailed description of mechanics, please refer to <#1020818825840689262>.
+This guide is made with the idea of getting started at AoD, and does not cover meta strategies. For those please refer to the main guides in <#1020025399079600178>. For a detailed description of mechanics, please refer to <#1252553011474206780>.
 
 .
 ## __Magic <:Magic:689504724159823906>__
 .tag:Magic
 Magic is both the cheapest and the easiest style to use at AoD. Provided below are presets and strategies for various roles while using the magic combat style.
 
-### Preset and relics
+## __Presets and Relics__
 .tag:magicpresets
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/MVLrcwMCgM.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Magic Base](https://pvme.github.io/preset-maker/#/Lj2waJhs0SImEsqh5pvz)\n⬥ [Magic Minion Tank/Free Magic](https://pvme.github.io/preset-maker/#/CW3XSEgocYfMXaeuJhsg)",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Magic - Base](https://pvme.github.io/preset-maker/#/Lj2waJhs0SImEsqh5pvz) <:magic:689504724159823906>\n⬥ [Magic - Minion Tank/Free](https://pvme.github.io/preset-maker/#/CW3XSEgocYfMXaeuJhsg) <:magic:689504724159823906>"
       }
     ]
   }
 }
 .embed:json
-
 .
 ### Magic Base
 .tag:base
@@ -53,7 +50,7 @@ Magic is both the cheapest and the easiest style to use at AoD. Provided below a
       },
       {
         "name": "__Phase 1__",
-        "value": "<:vulnbomb:655341074235129858> and <:smokecloud:856635090641879050> the boss. Use your strong abilties such as <:omni:535533809664262179>, <:wm:535533809978966037>, <:asphyx:535533833072672778> and <:gconc:869285393223254107> till the boss phases at 2.1m hp.",
+        "value": "<:vulnbomb:655341074235129858> and <:smokecloud:856635090641879050> the boss. Use your strong abilities such as <:omni:535533809664262179>, <:wm:535533809978966037>, <:asphyx:535533833072672778> and <:gconc:869285393223254107> till the boss phases at 2.1m hp.",
         "inline": false
       },
       {
@@ -101,7 +98,7 @@ Magic is both the cheapest and the easiest style to use at AoD. Provided below a
       },
       {
         "name": "__Phase 1__",
-        "value": "Use your strong abilties such as <:omni:535533809664262179>, <:wm:535533809978966037>, <:asphyx:535533833072672778>, <:impactflank:867678154369400862>, <:deepimpactflank:867678153611018261> and <:gconc:869285393223254107> till the boss phases at 2.1m hp.",
+        "value": "Use your strong abilities such as <:omni:535533809664262179>, <:wm:535533809978966037>, <:asphyx:535533833072672778>, <:impactflank:867678154369400862>, <:deepimpactflank:867678153611018261> and <:gconc:869285393223254107> till the boss phases at 2.1m hp.",
         "inline": false
       },
       {
@@ -149,7 +146,7 @@ Magic is both the cheapest and the easiest style to use at AoD. Provided below a
       },
       {
         "name": "__Phase 1__",
-        "value": "Use your strong abilties such as <:omni:535533809664262179>, <:wm:535533809978966037>, <:asphyx:535533833072672778> and <:gconc:869285393223254107> till the boss phases at 2.1m hp.",
+        "value": "Use your strong abilities such as <:omni:535533809664262179>, <:wm:535533809978966037>, <:asphyx:535533833072672778> and <:gconc:869285393223254107> till the boss phases at 2.1m hp.",
         "inline": false
       },
       {
@@ -178,32 +175,29 @@ Magic is both the cheapest and the easiest style to use at AoD. Provided below a
 .embed:json
 
 .
-## __Range <:range:580168050121113623>__
+## __Ranged <:range:580168050121113623>__
 .tag:range
-Ranged is the most expensive style to use at AoD even at an entry level due to <:grico:787904334812807238>. While making this guide we considered the possibility of excluding the ability. Unfortunately, this was not possible as minion tanking with range simply becomes unviable if you do not have it.
+Ranged is the most expensive style to use at AoD even at an entry level due to <:grico:787904334812807238>. While making this guide we considered the possibility of excluding the ability. Unfortunately, this was not possible as minion tanking with Ranged simply becomes unviable if you do not have it.
 .
-Chinning is possible without <:grico:787904334812807238>, however since we included it for range minion tank we also decided to include it for all roles using the ranged combat style.
+Chinning is possible without <:grico:787904334812807238>, however since we included it for ranged minion tank we also decided to include it for all roles using the ranged combat style.
 .
-### Preset and relics
+## __Presets and Relics__
 .tag:rangepresets
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/CLI3DrX6gY.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Chinner](https://pvme.github.io/preset-maker/#/tfWBhuSYYk4LRtyd21h0)\n⬥ [Range Minion Tank/Free Range](https://pvme.github.io/preset-maker/#/hUhOWZHY9NhT0JH6aEwn)",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Ranged - Chinner](https://pvme.github.io/preset-maker/#/tfWBhuSYYk4LRtyd21h0) <:range:580168050121113623>\n⬥ [Ranged - Minion Tank/Free](https://pvme.github.io/preset-maker/#/hUhOWZHY9NhT0JH6aEwn) <:range:580168050121113623>"
       }
     ]
   }
 }
 .embed:json
-
 .
 ### Chinner
 .tag:chin
@@ -224,7 +218,7 @@ Chinning is possible without <:grico:787904334812807238>, however since we inclu
       },
       {
         "name": "__Phase 1__",
-        "value": "<:swh:641670143197446182> <:spec:537340400273195028> then swap back to your range weapon. Use your strong abilties such as <:rapid:535541270521708566>, <:snap:535534127131394088>, <:shadowtend:642713547142332416>, <:bindingshotflank:867678153400647701>, <:tightbindingsflank:867678154096640010> and <:dbow:643848618553507843> <:eofspec:746403211908481184> till the boss phases at 2.1m hp. Use <:gricocaroming:867678153966878740>, if available, whenever off cooldown.",
+        "value": "<:swh:641670143197446182> <:spec:537340400273195028> then swap back to your Ranged weapon. Use your strong abilities such as <:rapid:535541270521708566>, <:snap:535534127131394088>, <:shadowtend:642713547142332416>, <:bindingshotflank:867678153400647701>, <:tightbindingsflank:867678154096640010> and <:dbow:643848618553507843> <:eofspec:746403211908481184> till the boss phases at 2.1m hp. Use <:gricocaroming:867678153966878740>, if available, whenever off cooldown.",
         "inline": false
       },
       {
@@ -253,7 +247,7 @@ Chinning is possible without <:grico:787904334812807238>, however since we inclu
 .embed:json
 
 .
-### Range Minion Tank
+### Ranged Minion Tank
 .tag:rangemt
 {
   "embed": {
@@ -272,7 +266,7 @@ Chinning is possible without <:grico:787904334812807238>, however since we inclu
       },
       {
         "name": "__Phase 1__",
-        "value": "Use your strong abilties such as <:rapid:535541270521708566>, <:snap:535534127131394088>, <:shadowtend:642713547142332416>, <:bindingshotflank:867678153400647701>, <:tightbindingsflank:867678154096640010> and <:dbow:643848618553507843> <:eofspec:746403211908481184> till the boss phases at 2.1m hp. Use <:gricocaroming:867678153966878740>, if available, whenever off cooldown.",
+        "value": "Use your strong abilities such as <:rapid:535541270521708566>, <:snap:535534127131394088>, <:shadowtend:642713547142332416>, <:bindingshotflank:867678153400647701>, <:tightbindingsflank:867678154096640010> and <:dbow:643848618553507843> <:eofspec:746403211908481184> till the boss phases at 2.1m hp. Use <:gricocaroming:867678153966878740>, if available, whenever off cooldown.",
         "inline": false
       },
       {
@@ -320,7 +314,7 @@ Chinning is possible without <:grico:787904334812807238>, however since we inclu
       },
       {
         "name": "__Phase 1__",
-        "value": "Use your strong abilties such as <:rapid:535541270521708566>, <:snap:535534127131394088>, <:shadowtend:642713547142332416>, <:bindingshotflank:867678153400647701>, <:tightbindingsflank:867678154096640010> and <:dbow:643848618553507843> <:eofspec:746403211908481184> till the boss phases at 2.1m hp. Use <:gricocaroming:867678153966878740>, if available, whenever off cooldown.",
+        "value": "Use your strong abilities such as <:rapid:535541270521708566>, <:snap:535534127131394088>, <:shadowtend:642713547142332416>, <:bindingshotflank:867678153400647701>, <:tightbindingsflank:867678154096640010> and <:dbow:643848618553507843> <:eofspec:746403211908481184> till the boss phases at 2.1m hp. Use <:gricocaroming:867678153966878740>, if available, whenever off cooldown.",
         "inline": false
       },
       {
@@ -353,26 +347,23 @@ Chinning is possible without <:grico:787904334812807238>, however since we inclu
 .tag:melee
 While being a relatively high damage style at entry AoD, melee does require quite a few more switches to be able to comfortably get through a kill.
 .
-### Preset and relics
+## __Presets and Relics__
 .tag:meleepresets
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/qcpawEbJn7.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Melee Minion Tank/Free Melee](https://pvme.github.io/preset-maker/#/rrnzbHyfsRpyQ1UBZAW6)\n",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Melee - Minion Tank/Free](https://pvme.github.io/preset-maker/#/rrnzbHyfsRpyQ1UBZAW6) <:melee:1096130867279171706>"
       }
     ]
   }
 }
 .embed:json
-
 .
 ### Melee Minion Tank
 .tag:meleemt
@@ -474,26 +465,23 @@ While being a relatively high damage style at entry AoD, melee does require quit
 .
 Necromancy is currently one of the best styles in general at AoD, and it can be used both at entry level and at the high end.
 .
-### Preset and relics
+## __Presets and Relics__
 .tag:necropresets
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/LMJBj61ED1.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Necromancy Minion Tank/Free/Hammer](https://pvme.github.io/preset-maker/#/E2RrdIw8D2PW2AYYFOHL)\n",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Necromancy - Minion Tank/Free/Hammer](https://pvme.github.io/preset-maker/#/E2RrdIw8D2PW2AYYFOHL) <:necromancy:1148995625896120460>"
       }
     ]
   }
 }
 .embed:json
-
 .
 ### Necromancy Minion Tank/Free/Hammer
 .tag:necromt
@@ -519,7 +507,7 @@ Necromancy is currently one of the best styles in general at AoD, and it can be 
       },
       {
         "name": "__Phase 2__",
-        "value": "⬥ Build adren and Residual Souls <:residualsoul:1139453152169558046> with basics while <:aod:580167371365548042> is undamageable.\n\u200B⬥ Command Skeleton <:commandwarrior:1137809194423160883> before the boss becomes damageable and use strong abilities to phase it.\n\u200B⬥ AOD <:aod:580167371365548042> will phase at 1.8m hp. \n\u200B⬥ The Necromancy base will kill the amalgamations using <:invokedeath:1137809121983336548> → <:threadsoffate:1137809172335951933> → <:volleyofsouls:1159435029592686642> → <:soulsap:1137809140476031057> → <:volleyofsouls:1159435029592686642> (assuming Soundbound Lantern <:soulboundlantern:1138809230573441064> and 3/4+ Residual Souls <:residualsoul:1139453152169558046>).",
+        "value": "⬥ Build adren and Residual Souls <:residualsoul:1139453152169558046> with basics while <:aod:580167371365548042> is undamageable.\n\u200B⬥ Command Skeleton <:commandwarrior:1137809194423160883> before the boss becomes damageable and use strong abilities to phase it.\n\u200B⬥ AOD <:aod:580167371365548042> will phase at 1.8m hp. \n\u200B⬥ The Necromancy base will kill the amalgamations using <:invokedeath:1137809121983336548> → <:threadsoffate:1137809172335951933> → <:volleyofsouls:1159435029592686642> → <:soulsap:1137809140476031057> → <:volleyofsouls:1159435029592686642> (assuming Soulbound Lantern <:soulboundlantern:1138809230573441064> and 3/4+ Residual Souls <:residualsoul:1139453152169558046>).",
         "inline": false
       },
       {

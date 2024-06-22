@@ -1,5 +1,5 @@
 # Legiones
-.img:https://img.pvme.io/images/KqZ6A3mP7S.png
+.img:https://img.pvme.io/images/NxT0aYSYLf.png
 .
 ## __Introduction__
 .tag:intro
@@ -8,13 +8,6 @@ Legiones are bosses in the Monastery of Ascension. Accessing them requires an As
 They are very good for learning how to move around and avoid mechanics while still doing damage.
 
 Each Legio kill is worth <:coins:698816156961603654> $data_pvme:Bosses!B442$, with <:coins:698816156961603654> $data_pvme:Bosses!C442$ of that being profit. Advanced players can get up to $data_pvme:Bosses!B445$ kph, earning on average $data_pvme:Bosses!C445$ gp/hr.
-
-.
-## __Drops__
-.tag:drops
-⬥ <:signet1:643164801685782538> **Signet** `1/50`
-⬥ <:ascgrips:643166338461859850> **Ascension grips** `1/2060 (Only on task)`
-⬥ <:csignet1:643164866395504671> **Corrupted signet** `1/1000 (1200 threshold)`
 
 .
 ## __Mechanics__
@@ -105,7 +98,7 @@ As ascension members, Legiones can only be efficiently harmed with ranged, as th
 .
 ## __Basic Strategy__
 .tag:basic
-Simply get into MD of the boss (this is due to you doing more damage the closer you are), double bleed and walk your Fragmentation Shot <:frag:535541273755385885>. Then, do your best range threshold rotation (i.e. Snap Shot <:snap:535534127131394088> and Rapid Fire <:rapid:535541270521708566>, **avoiding** Shadow Tendrils <:shadowtend:642713547142332416> as Legiones have a hit cap of 7.5k and finally finish the kill with basics.
+Simply get into MD of the boss (this is due to you doing more damage the closer you are), double bleed and walk your Fragmentation Shot <:frag:535541273755385885>. Then, do your best ranged threshold rotation (i.e. Snap Shot <:snap:535534127131394088> and Rapid Fire <:rapid:535541270521708566>, **avoiding** Shadow Tendrils <:shadowtend:642713547142332416> as Legiones have a hit cap of 7.5k and finally finish the kill with basics.
 
 Ideally, kill times should be consistently sub 20 seconds.
 
@@ -117,7 +110,7 @@ For your familiars you have 3 main options:
     • This is for the 0-5% passive damage bonus only - Do not use scrolls as the familiar rarely hits due to boss affinities-
 ⬥ Steel Titan <:Titan:513195724738002944>
     • It primarily uses a mix of Ranged and Melee attacks, so is only partially effective-
-    • It can take a while to agro, so is only viable for slower kills (>20s), or when manually targetting it onto the Legiones (e.g. during Snipe <:snipe:535541258425204770>)
+    • It can take a while to aggro, so is only viable for slower kills (>20s), or when manually targeting it onto the Legiones (e.g. during Snipe <:snipe:535541258425204770>)
     • A budget option compared to Ripper Demon.
 ⬥ Unicorn Stallion (for its special attack, only if struggling for HP)
 
@@ -145,7 +138,7 @@ This method can result in around 240-250 KPH and around 200 KPH at Quartus
 ⬥ Reckless Aura <:reckless:643505179378974748>
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .
 {
   "embed": {
@@ -156,7 +149,7 @@ This method can result in around 240-250 KPH and around 200 KPH at Quartus
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Ranged | Primus/Secundus/Tertius/Sextus](https://pvme.github.io/preset-maker/#/ImMnV9Ap5GvlpIFKfAJg)\n⬥ [Ranged | Quartus/Quintus](https://pvme.github.io/preset-maker/#/gXTEPwqgTqn6zBtw9zVr)",
         "inline": true
       }
@@ -239,7 +232,7 @@ https://www.youtube.com/watch?v=FlU2j4qgaq0
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Drops]($linkmsg_drops$)\n⬥ [Mechanics]($linkmsg_mechanics$)\n⬥ [Beginner Strategy]($linkmsg_basic$)\n⬥ [Familiar Guidance]($linkmsg_familiars$)\n⬥ [Manipulating Attacks]($linkmsg_mani$)\n⬥ [Advanced Strategy]($linkmsg_advanced$)",
+    "description": "*To edit this guide, visit <id:customize> and select Entry Editor*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Mechanics]($linkmsg_mechanics$)\n⬥ [Beginner Strategy]($linkmsg_basic$)\n⬥ [Familiar Guidance]($linkmsg_familiars$)\n⬥ [Manipulating Attacks]($linkmsg_mani$)\n⬥ [Advanced Strategy]($linkmsg_advanced$)",
     "color": 39423
   }
 }

@@ -2,7 +2,7 @@
 
 # A Guide to 5 man Zamorak 50%
 .
-.img:https://img.pvme.io/images/VefuQWd.jpg
+.img:https://img.pvme.io/images/E9HmNuzAe2.png
 .
 ## __Introduction__
 .tag:intro
@@ -14,10 +14,10 @@
 
 ⬥ This guide is aimed at 5 man teams, if your team has less players, you can execute the same strategies but you will have to deal more damage, a safe approach to skip mechanics is to charge the next pad at sub **(teamsize * 20k) grey bar**.
 
-⬥ This is an advanced guide. For learning how to defeat Zamorak, refer to <#1020560033173479464> and <#1090987866143866960>
+⬥ This is an advanced guide. For learning how to defeat Zamorak, refer to <#1020560033173479464> and <#1251104943566491710>
 
 .
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:preset
 {
   "embed": {
@@ -28,7 +28,7 @@
         },
     "fields": [
 {
-        "name": "__Preset Suggestion & Breakdown__",
+        "name": "__Preset Suggestions__",
         "value": "⬥ [Magic /  Melee Hybrid](https://pvme.github.io/preset-maker/#/B3KDhR5CTEcRMtCfE5TC)",
         "inline": true
       }
@@ -44,7 +44,7 @@
 ⬥ 3 players have this role. One should have the boss aggro on them and keep it centered the whole kill without moving around. The free role's job is to do a burst damage rotation on Zamorak each time a new pad is charged to skip mechanics.
 
 ### Witch Killer Role
-⬥ 1 player has this role. Their job is to kill the witch in Infernus everytime Zamorak's HP section is depleted as fast as possible.
+⬥ 1 player has this role. Their job is to kill the witch in Infernus every time Zamorak's HP section is depleted as fast as possible.
 
 ### Pad Charger Role
 ⬥ 1 player has this role. Their job is to charge the pads following the order 216453 or 214653 every time the witch dies to open the next phase.
@@ -194,7 +194,7 @@ Repeat Third and Fourth Edict, dump extra hard on the last <:zerk:53553285400467
 .
 ⬥ Witch Killer Example - <https://www.youtube.com/watch?v=lsc7488YX98> (mage-melee)
 ⬥ Free Example - <https://www.youtube.com/watch?v=i2ZnsPyxcl8&t=1s> (mage-melee)
-⬥ Free Example - <https://www.youtube.com/watch?v=4WvziEc_3bU&t=7s> (mage-range)
+⬥ Free Example - <https://www.youtube.com/watch?v=4WvziEc_3bU&t=7s> (mage-ranged)
 ⬥ Free Example - <https://www.youtube.com/watch?v=bJpZSA7uZow> (mage-melee)
 ⬥ Pad Charger Example - <https://www.twitch.tv/videos/1539320330> (this is very suboptimal)
 

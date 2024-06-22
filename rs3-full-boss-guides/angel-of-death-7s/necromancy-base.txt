@@ -1,19 +1,19 @@
 # Necromancy Base
+.img:https://img.pvme.io/images/JChZfA1i4S.png
 
-## __Preset and relics__
+.
+## __Presets and Relics__
 .tag:preset
 {
   "embed": {
-    "title": "",
     "color": 39423,
     "image": {
             "url": "https://img.pvme.io/images/G4u6SykH9o.png"
-        },
-    "fields": [
-{
-        "name": "__Preset Suggestion & Breakdown__",
-        "value": "⬥ [Necromancy Base](https://pvme.io/preset-maker/#/4ESJKcN4YnuZpAy83Hg1)",
-        "inline": true
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Necromancy preset](https://pvme.io/preset-maker/#/4ESJKcN4YnuZpAy83Hg1) <:necromancy:1148995625896120460>"
       }
     ]
   }
@@ -32,7 +32,7 @@ _Note: Use <:commandghost:1159434409913634816> if Hammer does not use it in the 
 .
 ### Phase 1
 .tag:p1
-<:vulnbomb:655341074235129858><:deathskulls:1159434663903899728> → <:soulsap:1137809140476031057> → <:omniguard:1138809234922934282><:spec:537340400273195028> → <:touchofdeath:1137809175980810380> → <:necroauto:1137809137401602109> → <:deathguard90:1138809243143766118> <:eofspec:746403211908481184>
+<:vulnbomb:655341074235129858> <:deathskulls:1159434663903899728> → <:soulsap:1137809140476031057> → <:omniguard:1138809234922934282> <:spec:537340400273195028> → <:touchofdeath:1137809175980810380> → <:necroauto:1137809137401602109> → <:deathguard90:1138809243143766118> <:eofspec:746403211908481184>
 
 .
 ### Phase 2
@@ -54,7 +54,7 @@ _Note: Use <:commandskeleton:1137809194423160883> only if it does not put you be
 .
 ### Last Pillar and Zaros
 .tag:zaros
-<:omniguard:1138809234922934282><:spec:537340400273195028>  → <:volleyofsouls:1159435029592686642> ( → <:necroauto:1137809137401602109> ) → <:aod:580167371365548042> <:deathskulls:1159434663903899728> → <:necroauto:1137809137401602109> → <:fingerofdeath:1159434801938432010> → <:deathguard90:1138809243143766118> <:eofspec:746403211908481184> → <:necroauto:1137809137401602109>
+<:omniguard:1138809234922934282> <:spec:537340400273195028>  → <:volleyofsouls:1159435029592686642> ( → <:necroauto:1137809137401602109> ) → <:aod:580167371365548042> <:deathskulls:1159434663903899728> → <:necroauto:1137809137401602109> → <:fingerofdeath:1159434801938432010> → <:deathguard90:1138809243143766118> <:eofspec:746403211908481184> → <:necroauto:1137809137401602109>
 
 .
 .tag:eg

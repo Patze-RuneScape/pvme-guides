@@ -20,15 +20,10 @@ A submission should be provided as follows, with your in-game name visible:
   "embed": {
     "title": "",
     "color": 39423,
-    "image": {"url": "https://img.pvme.io/images/Z36FGW1pCw.png"},
     "fields": [
       {
         "name": "**__Feats System Rules__**",
         "value": "⬥ All rules used by the [PvM Records](https://discord.gg/AR5qErBGDs) community apply\n\u00a0\u00a0\u00a0\u00a0• Full list is available [here](https://www.pvm-records.com/rules).\n\u00a0\u00a0\u00a0\u00a0• Any new bugs/exploits added to the [list](https://www.pvm-records.com/rules) that are used prior to being disallowed *may result in submission denial.*\n⬥ Power creep may place submissions on hold.\n⬥ Practice mode is ***allowed*** by default but ***disallowed*** for feats featuring enrage percentages as climbing to that enrage is considered in the placement of the feat.\n⬥ [Deathtouched darts](https://runescape.wiki/w/Deathtouched_dart) are not allowed for any feat."
-        },
-        {
-        "name": "**__Dark Crystals__**",
-        "value": "**Obtainable from Morvan's special challenge, there are 9 possible crystals of which some feats will use the following 6 of**:\n\n⬥ Information on how to obtain these can be found on the [wiki](https://runescape.wiki/w/Slayer/Challenges#Morvran)\n"
         }
     ]
   }
@@ -100,7 +95,7 @@ These feats are for those who mastered the basics of a boss and want to start pu
       },
       {
       "name": "** **",
-      "value": "<@&860648687007694868>\n⬥ **Solo Beastmaster Durzag**\n\n<@&860649063330611231>\n⬥ **Duo Yakamaru (Mirage phase)**\n\n<@&1217988276431098008>\n⬥ **Complete a hardmode Tzkal-Zuk run after clearing the triple jad wave with only your fists**\n\n<@&1239725420182769664>\n⬥ **Kill Seiryu in a single cycle, skip the BSD flight phase, and skip the Ambassador spinner phase in solo instances.**\n\u00a0\u00a0\u00a0\u00a0• In a row not required\n\n<@&1239725322962993312>\n⬥ **Use 25 different ultimate abilities during a single solo hardmode Kerapac kill, while also utilizing a different style every phase**"
+      "value": "<@&860648687007694868>\n⬥ **Solo Beastmaster Durzag**\n\n<@&860649063330611231>\n⬥ **Duo Yakamaru (Mirage phase)**\n\n<@&1217988276431098008>\n⬥ **Complete a hardmode Tzkal-Zuk run after clearing the triple jad wave with only your fists**\n\n<@&1239725420182769664>\n⬥ **Kill Seiryu in a single cycle, skip the BSD flight phase, and skip the Ambassador spinner phase in solo instances.**\n\u00a0\u00a0\u00a0\u00a0• In a row not required\n\n<@&1239725322962993312>\n⬥ **Use 25 different ultimate abilities during a single solo hardmode Kerapac kill, while also utilising a different style every phase**"
       }
     ]
   }

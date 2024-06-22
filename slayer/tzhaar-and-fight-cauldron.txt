@@ -5,7 +5,7 @@
 .
 ## __Introduction__
 .tag:intro1
-TzHaar creatures are killed for the Ring of Stone drop, which is their rarest item for the Karamja slayer log. This method utilizes legacy combat mode. The method is basically just running around the TzHaar City and killing every TzHaar monster you see. If you happen to get the Ring of Stone early, the Fight Cauldron minigame is your best way of obtaining the rest of the items you're missing.
+TzHaar creatures are killed for the Ring of Stone drop, which is their rarest item for the Karamja slayer log. This method utilises legacy combat mode. The method is basically just running around the TzHaar City and killing every TzHaar monster you see. If you happen to get the Ring of Stone early, the Fight Cauldron minigame is your best way of obtaining the rest of the items you're missing.
 
 .
 ## __Notable drops__
@@ -22,7 +22,7 @@ TzHaar creatures are killed for the Ring of Stone drop, which is their rarest it
 ⬥ Any decent DPS armour <:sirenicbody:643846948570267648> / <:pernixbody:641672159051120651> / <:EliteRobinHoodTop:556585903489810454>
 
 .
-## __Preset__
+## __Presets and Relics__
 .tag:preset1
 ⬥ Legacy mode is **ON**.
 .
@@ -68,7 +68,7 @@ Fight Cauldron is a safe minigame unlocked after the Grandmaster quest **__The B
 ⬥ (Runes for <:exsanguinate:856635090745950258>)
 .
 .img:https://img.pvme.io/images/OpdQ18s.png
-## __Range preset__
+## __Ranged preset__
 
 .
 ⬥ <:quiver:656863806080811038> with Araxyte arrows <:raxarrow:643507040248922130>
